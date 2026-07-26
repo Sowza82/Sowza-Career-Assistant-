@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ChromaDB
+chroma_db/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
