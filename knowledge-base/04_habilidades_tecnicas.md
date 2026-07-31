@@ -2,30 +2,38 @@
 
 ## Objetivo deste documento
 
-Este documento reúne as principais habilidades técnicas de Tatiane Santos de Souza, organizadas por categorias. As informações são atualizadas conforme novas tecnologias são estudadas e utilizadas em projetos.
+Este documento reúne as principais habilidades técnicas de Tatiane Souza, organizadas por categorias. As informações refletem os conhecimentos adquiridos por meio de cursos, certificações, projetos práticos e aprendizado contínuo.
 
 ---
 
-# Linguagens de Programação
+## Linguagens de Programação
 
-## HTML5
+### HTML5
 
+**Competências**
 - Estruturação de páginas web
 - HTML semântico
 - Formulários
-- Acessibilidade básica
+- Acessibilidade
+- SEO básico
 
-## CSS3
+---
 
+### CSS3
+
+**Competências**
 - Flexbox
 - CSS Grid
 - Responsividade
+- Media Queries
 - Animações
 - Transições
-- Media Queries
 
-## JavaScript
+---
 
+### JavaScript
+
+**Competências**
 - ES6+
 - Manipulação do DOM
 - Eventos
@@ -34,25 +42,36 @@ Este documento reúne as principais habilidades técnicas de Tatiane Santos de S
 - Arrays
 - Promises
 - Fetch API
-- Módulos
+- Módulos JavaScript
 
-## TypeScript
+---
 
+### TypeScript
+
+**Competências**
 - Tipagem estática
 - Interfaces
 - Tipos
 - Classes
 - Integração com React
 
-## Python
+---
 
-- Sintaxe básica
+### Python
+
+**Competências**
+- Sintaxe da linguagem
 - Manipulação de arquivos
 - Desenvolvimento de aplicações
-- Inteligência Artificial (em aprendizado)
+- Automação
+- Fundamentos para Inteligência Artificial
+- Desenvolvimento de APIs (FastAPI)
 
-## Java
+---
 
+### Java
+
+**Competências**
 - Programação Orientada a Objetos
 - Classes
 - Objetos
@@ -63,109 +82,157 @@ Este documento reúne as principais habilidades técnicas de Tatiane Santos de S
 
 ---
 
-# Desenvolvimento Front-End
+## Desenvolvimento Front-End
 
-## React
+### React
 
-Competências:
-
+**Competências**
 - Componentes
 - Props
 - State
-- Hooks
-- useState
-- useEffect
+- Hooks (useState, useEffect)
 - React Router
 - Consumo de APIs
 - Organização de projetos
 
-## Next.js
+---
 
-Competências:
+### Next.js
 
+**Competências**
 - Estrutura de aplicações
-- Rotas
+- Sistema de rotas
 - Componentização
 - Server Components
 - Client Components
+- Renderização
 - Deploy
 
-## Vite
+---
 
-- Criação de projetos
+### Vite
+
+**Competências**
+- Inicialização de projetos
 - Ambiente de desenvolvimento
-- Build
+- Build de aplicações
 
 ---
 
-# Desenvolvimento Back-End
+### Tailwind CSS
 
-Conhecimentos em evolução nas tecnologias:
+**Competências**
+- Estilização utility-first
+- Componentização visual
+- Responsividade
+
+---
+
+## Desenvolvimento Back-End
+
+### Tecnologias estudadas
 
 - Node.js
+- NestJS
 - Java
 - Python
+- FastAPI
 - APIs REST
 - Integração entre Front-End e Back-End
+- Autenticação com JWT (autenticação baseada em papéis)
 
 ---
 
-# Banco de Dados
+## Banco de Dados
 
-Conhecimentos em:
+### Tecnologias
 
 - PostgreSQL
 - SQLite
+- MySQL
 - Prisma ORM
 - Neon Database
 
-Competências:
-
-- Modelagem básica
+**Competências**
+- Modelagem de dados
 - Consultas SQL
 - Integração com aplicações
+- Persistência de dados
 
 ---
 
-# Cloud Computing
+## Cloud Computing
 
-Conhecimentos em:
+### Oracle Cloud Infrastructure (OCI)
 
-## Oracle Cloud Infrastructure (OCI)
-
-- Fundamentos de Cloud
+**Competências**
+- Fundamentos de Cloud Computing
 - Compute
 - Storage
 - Networking
-- Identity and Access Management
-
-## Amazon Web Services (AWS)
-
-Estudos em andamento para certificação Cloud Practitioner.
-
-## Google Cloud Platform
-
-Experiência em laboratórios práticos utilizando:
-
-- Cloud Skills Boost
-- Google Cloud Arcade
-- Gemini
+- Identity and Access Management (IAM)
 
 ---
 
-# Inteligência Artificial
+### Amazon Web Services (AWS)
 
-Tecnologias estudadas:
+**Competências**
+- Fundamentos de Cloud Computing
+- Infraestrutura e serviços cloud (AWS re/Start)
+
+---
+
+### Google Cloud Platform
+
+**Competências**
+- Cloud Skills Boost (Diamond League)
+- Google Cloud Arcade (Facilitadora 2026)
+- Laboratórios práticos
+- Google Gemini
+
+---
+
+### Plataformas de Deploy
+
+- Vercel
+- Render.com
+
+---
+
+## Inteligência Artificial
+
+### Tecnologias e Frameworks
 
 - Google Gemini
+- API Anthropic (Claude)
+- Cohere
 - LangChain
 - ChromaDB
+- TF-IDF
 - RAG (Retrieval-Augmented Generation)
 - Engenharia de Prompt
 
 ---
 
-# Ferramentas
+## Automação e Integração
+
+- n8n (automação de fluxos e agentes)
+- Integração com Telegram (Bot API)
+- Stripe Checkout (integração de pagamentos)
+- Railway (deploy e hospedagem)
+
+---
+
+## Ferramentas de IA para Desenvolvimento
+
+- Claude Code
+- Cursor
+- Windsurf
+- MCP (Model Context Protocol)
+
+---
+
+## Ferramentas
 
 - Git
 - GitHub
@@ -178,21 +245,22 @@ Tecnologias estudadas:
 
 ---
 
-# Metodologias
+## Metodologias e Boas Práticas
 
 Conhecimentos em:
 
 - Git Flow
 - Versionamento de código
 - Componentização
-- Desenvolvimento responsivo
+- Desenvolvimento Responsivo
+- Clean Code (fundamentos)
 - Boas práticas de desenvolvimento
 
 ---
 
-# Competências Profissionais
+## Competências Profissionais
 
-Além das competências técnicas, destacam-se:
+Além das habilidades técnicas, destacam-se:
 
 - Organização
 - Aprendizado contínuo
@@ -204,14 +272,30 @@ Além das competências técnicas, destacam-se:
 
 ---
 
-# Atualização
+## Palavras-chave
 
-Este documento deve ser atualizado sempre que uma nova tecnologia for aprendida ou utilizada em projetos.
+Tatiane Souza, SowzaTech, HTML5, CSS3, JavaScript, TypeScript, Python, Java, React, Next.js, Vite, Tailwind CSS, Node.js, NestJS, FastAPI, PostgreSQL, MySQL, Prisma, Git, GitHub, Streamlit, Docker, Google Gemini, Anthropic, Claude, Cohere, LangChain, ChromaDB, TF-IDF, RAG, n8n, Telegram, Stripe, Railway, Vercel, Render, Claude Code, Cursor, Windsurf, MCP, Inteligência Artificial, Cloud Computing, Oracle Cloud, AWS, Google Cloud, Desenvolvimento Front-End, Desenvolvimento Back-End
 
-Para cada nova tecnologia registrar:
+---
 
-- Nome
+## Referências
+
+Este documento complementa as informações presentes em:
+
+- `02_formacao.md`
+- `03_certificacoes.md`
+- `05_projetos.md`
+- `09_objetivos_profissionais.md`
+
+---
+
+## Atualização
+
+Este documento deve ser atualizado sempre que uma nova tecnologia, ferramenta, metodologia ou competência for aprendida ou utilizada em projetos.
+
+Para cada nova habilidade registrar:
+
+- Nome da tecnologia ou ferramenta
 - Categoria
-- Nível de conhecimento
-- Principais competências
-- Projetos onde foi utilizada (quando aplicável)
+- Competências desenvolvidas
+- Projetos em que foi utilizada (quando aplicável)

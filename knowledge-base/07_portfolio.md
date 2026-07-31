@@ -2,164 +2,107 @@
 
 ## Objetivo deste documento
 
-Este documento apresenta um catálogo dos principais projetos desenvolvidos por Tatiane Santos de Souza. Ele serve como referência para consultas sobre o portfólio profissional e deve ser atualizado sempre que novos projetos forem publicados.
+Este documento apresenta o portfólio profissional de **Tatiane Souza**, reunindo projetos, aplicações desenvolvidas, experiências práticas e canais onde sua trajetória tecnológica pode ser acompanhada.
+
+O objetivo é facilitar a consulta pelo **Sowza Career Assistant** sobre projetos publicados, demonstrações técnicas e presença profissional online.
+
+Este documento funciona como um **índice de apresentação** — para detalhes técnicos completos (tecnologias, funcionalidades, aprendizados e desafios de cada projeto), consulte `05_projetos.md`.
 
 ---
 
-# Portfólio Profissional
+## Sobre o Portfólio
 
-## Nome da Marca
+O portfólio de **Tatiane Souza** representa sua evolução na área de tecnologia, apresentando projetos desenvolvidos durante sua transição de carreira e formação profissional.
 
-Sowza.dev
-
-## Objetivo
-
-Demonstrar conhecimentos técnicos por meio de projetos práticos, evidenciando evolução profissional, aprendizado contínuo e domínio de tecnologias modernas para desenvolvimento web.
+Os projetos demonstram conhecimentos em Desenvolvimento Web Front-End, Desenvolvimento de Aplicações, Inteligência Artificial, Cloud Computing e boas práticas de engenharia de software.
 
 ---
 
-# Categorias de Projetos
+## Projetos em Destaque
 
-## Desenvolvimento Front-End
+### Sowza Career Assistant
 
-Projetos desenvolvidos utilizando:
+Agente de Inteligência Artificial baseado em RAG (Retrieval-Augmented Generation), desenvolvido para responder perguntas sobre a trajetória profissional de Tatiane Souza.
 
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- React
-- Next.js
+- **Status:** Em desenvolvimento
+- **Repositório:** Ainda em desenvolvimento (não público)
+- **Detalhes completos:** `05_projetos.md`
 
 ---
 
-## Inteligência Artificial
+### Portfólio SowzaTech
 
-Projetos relacionados a:
+Site profissional desenvolvido para apresentar a trajetória, habilidades, certificações, projetos e informações de contato de Tatiane Souza.
 
-- LangChain
-- RAG (Retrieval-Augmented Generation)
-- Google Gemini
-- ChromaDB
-- Streamlit
-
----
-
-## Cloud Computing
-
-Projetos e laboratórios relacionados a:
-
-- Oracle Cloud Infrastructure (OCI)
-- Amazon Web Services (AWS)
-- Google Cloud Platform (GCP)
+- **Status:** Em desenvolvimento
+- **Repositório:** Ainda em desenvolvimento (não público)
+- **Deploy:** sowza.dev
+- **Detalhes completos:** `05_projetos.md`
 
 ---
 
-# Lista de Projetos
+## Projetos Acadêmicos e de Formação
 
-## Sowza Career Assistant
+Durante sua formação em tecnologia, Tatiane Souza desenvolveu diversos projetos práticos, incluindo o HR Buddy (agente RAG) e projetos da trilha DEVstart (fundamentos de HTML, CSS e JavaScript).
 
-### Categoria
-
-Inteligência Artificial
-
-### Tecnologias
-
-- Python
-- LangChain
-- ChromaDB
-- Google Gemini
-- Streamlit
-
-### Situação
-
-Em desenvolvimento
-
-### Descrição
-
-Agente inteligente baseado em RAG para responder perguntas sobre a trajetória profissional de Tatiane Santos de Souza.
+A lista completa de projetos, com tecnologias, funcionalidades e links de repositório, está organizada no documento `05_projetos.md`.
 
 ---
 
-## Portfólio Pessoal
+## Presença Profissional Online
 
-### Categoria
+### GitHub
 
-Front-End
+Perfil utilizado para publicação de projetos, códigos e estudos em tecnologia.
 
-### Tecnologias
+- **GitHub:** https://github.com/Sowza82
 
-- Next.js
-- React
-- TypeScript
+### LinkedIn
 
-### Situação
+Perfil profissional utilizado para compartilhar trajetória, certificações, aprendizados e oportunidades na área de tecnologia.
 
-Em desenvolvimento
-
-### Descrição
-
-Site profissional para apresentação de projetos, certificações, habilidades e informações de contato.
+- **LinkedIn:** https://www.linkedin.com/in/tatiane-souza-tech
 
 ---
 
-## Projetos Acadêmicos
+## Critérios do Portfólio
 
-Incluem projetos desenvolvidos durante:
+Os projetos apresentados devem demonstrar:
 
-- Oracle Next Education (ONE)
-- ElasNaTech
-- Salvador Tech
-- Proz Educação
-- Descodificadas
-- Desenvolve Grupo Boticário
-- Escola Técnica FAT
-
----
-
-# Tecnologias Mais Utilizadas
-
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- React
-- Next.js
-- Python
-- Git
-- GitHub
+- Organização de código
+- Boas práticas de desenvolvimento
+- Responsividade
+- Experiência do usuário
+- Aplicação prática dos conhecimentos adquiridos
+- Evolução técnica contínua
 
 ---
 
-# Plataformas de Publicação
+## Palavras-chave
 
-Os projetos poderão ser publicados em plataformas como:
-
-- GitHub
-- Vercel
-- Oracle Cloud Infrastructure (OCI)
+Tatiane Souza, SowzaTech, Portfólio, sowza.dev, GitHub, LinkedIn, Sowza Career Assistant, Desenvolvimento Web, Front-End, Inteligência Artificial, RAG, Tecnologia
 
 ---
 
-# Objetivo do Portfólio
+## Referências
 
-O portfólio tem como finalidade:
+Este documento complementa as informações presentes em:
 
-- Demonstrar competências técnicas.
-- Compartilhar projetos desenvolvidos.
-- Evidenciar a evolução profissional.
-- Facilitar a apresentação para recrutadores e empresas.
+- `01_sobre_mim.md`
+- `04_habilidades_tecnicas.md`
+- `05_projetos.md`
+- `08_contato.md`
+- `09_objetivos_profissionais.md`
 
 ---
 
-# Atualização
+## Atualização
 
-Sempre que um novo projeto for desenvolvido, incluir:
+Este documento deve ser atualizado sempre que novos projetos forem adicionados ao portfólio ou quando houver mudanças nos canais profissionais de Tatiane Souza.
+
+Manter atualizados:
 
 - Nome do projeto
-- Categoria
-- Tecnologias utilizadas
 - Status
-- Descrição
 - Link do repositório
-- Link da aplicação (quando disponível)
+- Link do deploy

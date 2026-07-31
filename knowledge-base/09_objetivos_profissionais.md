@@ -2,82 +2,81 @@
 
 ## Objetivo deste documento
 
-Este documento descreve os objetivos profissionais de Tatiane Santos de Souza, apresentando sua visão de carreira, áreas de interesse e metas de desenvolvimento. As informações servem como referência para o Sowza Career Assistant responder perguntas relacionadas aos seus planos profissionais.
+Este documento apresenta os objetivos profissionais de **Tatiane Souza**, descrevendo sua visão de carreira, metas de curto, médio e longo prazo, áreas de interesse e direcionamento para desenvolvimento profissional.
+
+Seu objetivo é servir como referência para o **Sowza Career Assistant** responder perguntas relacionadas aos planos e aspirações profissionais.
 
 ---
 
-# Objetivo Geral
+## Objetivo Geral
 
-Atuar como Desenvolvedora Front-End, criando aplicações modernas, acessíveis e eficientes, contribuindo para projetos inovadores e ampliando continuamente meus conhecimentos em desenvolvimento de software, inteligência artificial e computação em nuvem.
+Atuar como **Desenvolvedora Front-End**, desenvolvendo aplicações modernas, acessíveis, responsivas e eficientes, contribuindo para projetos inovadores enquanto amplia continuamente seus conhecimentos em Desenvolvimento de Software, Inteligência Artificial e Computação em Nuvem.
 
 ---
 
-# Objetivos de Curto Prazo
+## Objetivos de Curto Prazo
 
-- Conquistar uma oportunidade profissional como Desenvolvedora Front-End.
-- Fortalecer meu portfólio com projetos completos e bem documentados.
-- Consolidar conhecimentos em React, Next.js e TypeScript.
-- Desenvolver projetos utilizando Inteligência Artificial e RAG.
+- Concluir o Challenge do programa ONE AI for Tech (Oracle + Alura), com entrega do projeto Sowza Assistant, até 19/08/2026.
+- Conquistar a primeira oportunidade profissional como Desenvolvedora Front-End (CLT ou freelance).
+- Concluir o Módulo I do Técnico em Desenvolvimento de Sistemas (Escola Técnica FAT) e avançar nos módulos seguintes.
+- Fortalecer o portfólio com projetos completos, bem documentados e publicados.
+- Consolidar conhecimentos em React, Next.js, TypeScript e desenvolvimento de aplicações modernas.
 - Aprimorar conhecimentos em Git, GitHub e boas práticas de desenvolvimento.
+- Obter experiência prática por meio de projetos reais e colaborativos.
 
 ---
 
-# Objetivos de Médio Prazo
+## Objetivos de Médio Prazo
 
 - Atuar em projetos de maior complexidade utilizando tecnologias modernas.
-- Expandir conhecimentos em Desenvolvimento Full Stack.
-- Obter certificações em Cloud Computing, especialmente AWS e Oracle Cloud Infrastructure.
-- Participar de projetos colaborativos e de código aberto.
+- Evoluir para o desenvolvimento Full Stack.
+- Obter a certificação AWS Certified Cloud Practitioner.
+- Participar de projetos colaborativos e de código aberto (Open Source).
 - Desenvolver soluções que integrem Inteligência Artificial ao desenvolvimento web.
 
 ---
 
-# Objetivos de Longo Prazo
+## Objetivos de Longo Prazo
 
-- Tornar-me referência em Desenvolvimento Web e Inteligência Artificial.
-- Liderar projetos de tecnologia voltados para inovação e experiência do usuário.
-- Contribuir com a comunidade de tecnologia por meio do compartilhamento de conhecimento.
-- Construir uma carreira sólida baseada em aprendizado contínuo e desenvolvimento profissional.
+- Tornar-se referência em Desenvolvimento Web e Inteligência Artificial.
+- Liderar projetos voltados à inovação e à criação de soluções digitais.
+- Compartilhar conhecimento com a comunidade de tecnologia por meio de conteúdos, mentorias e projetos.
+- Construir uma carreira sólida baseada em aprendizado contínuo, qualidade técnica e evolução profissional.
+- Consolidar a marca **SowzaTech** como referência em desenvolvimento de soluções digitais.
 
 ---
 
-# Áreas de Interesse
+## Áreas de Interesse
 
-Tenho interesse em atuar nas seguintes áreas:
+As principais áreas de interesse profissional são:
 
 - Desenvolvimento Front-End
 - Desenvolvimento Full Stack
 - Inteligência Artificial
 - Engenharia de Software
 - Cloud Computing
-- UX/UI
 - Arquitetura de Aplicações Web
+- UX/UI
 
 ---
 
-# Tecnologias de Interesse
+## Áreas de Desenvolvimento
 
-Pretendo aprofundar meus conhecimentos em:
+Atualmente busca aprofundar conhecimentos em:
 
-- React
-- Next.js
-- TypeScript
-- Python
-- Java
-- Node.js
+- Desenvolvimento de aplicações React e Next.js
+- Inteligência Artificial Generativa
 - LangChain
-- ChromaDB
-- Streamlit
-- Docker
-- PostgreSQL
-- Oracle Cloud Infrastructure (OCI)
-- Amazon Web Services (AWS)
+- RAG (Retrieval-Augmented Generation)
+- Computação em Nuvem
+- Arquitetura de Software
+- Desenvolvimento Full Stack
 
 ---
 
-# Valores Profissionais
+## Valores Profissionais
 
-Minha atuação profissional é guiada pelos seguintes princípios:
+A atuação profissional é orientada pelos seguintes princípios:
 
 - Aprendizado contínuo
 - Ética
@@ -90,14 +89,32 @@ Minha atuação profissional é guiada pelos seguintes princípios:
 
 ---
 
-# Desenvolvimento Contínuo
+## Filosofia de Desenvolvimento
 
-Acredito que a evolução profissional acontece por meio da prática constante, participação em cursos, desenvolvimento de projetos e acompanhamento das tendências tecnológicas.
+A evolução profissional é construída por meio da prática constante, do estudo contínuo, da participação em projetos, da experimentação de novas tecnologias e da busca permanente por soluções inovadoras.
 
-Meu objetivo é manter uma rotina permanente de estudos para acompanhar a evolução das tecnologias e entregar soluções cada vez melhores.
+O compromisso é manter uma rotina de aprendizado que acompanhe a evolução do mercado de tecnologia e permita desenvolver soluções cada vez mais eficientes e de maior impacto.
 
 ---
 
-# Atualização
+## Palavras-chave
 
-Este documento deve ser revisado periodicamente para refletir novos objetivos, interesses, certificações e direcionamentos profissionais.
+Tatiane Souza, SowzaTech, Objetivos Profissionais, Carreira, Sowza Assistant, ONE AI for Tech, Challenge, Desenvolvimento Front-End, Desenvolvimento Full Stack, Inteligência Artificial, Cloud Computing, AWS, React, Next.js, RAG, Engenharia de Software, Desenvolvimento Profissional
+
+---
+
+## Referências
+
+Este documento complementa as informações presentes em:
+
+- `01_sobre_mim.md`
+- `02_formacao.md`
+- `04_habilidades_tecnicas.md`
+- `05_projetos.md`
+- `08_contato.md`
+
+---
+
+## Atualização
+
+Este documento deve ser revisado periodicamente para refletir novos objetivos, mudanças de carreira, interesses profissionais, certificações e direcionamentos estratégicos.

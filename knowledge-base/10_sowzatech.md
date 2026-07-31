@@ -1,46 +1,66 @@
-# Sowza.tech
+# SowzaTech
 
 ## Objetivo deste documento
 
-Este documento apresenta a identidade da marca pessoal **Sowza.tech**, incluindo sua história, propósito, missão, visão, valores e posicionamento profissional.
+Este documento apresenta a identidade da marca profissional **SowzaTech**, incluindo sua história, propósito, identidade visual, missão, visão, valores e posicionamento no mercado de tecnologia.
 
-As informações aqui registradas fazem parte da base de conhecimento do projeto **Sowza Career Assistant**.
-
----
-
-# O que é a Sowza.tech?
-
-Sowza.tech é a marca profissional criada por Tatiane Souza para representar sua atuação na área de tecnologia.
-
-A marca nasceu durante sua transição de carreira para o desenvolvimento de software, com o objetivo de reunir projetos, estudos, certificações e compartilhar sua evolução profissional.
+As informações aqui registradas fazem parte da base de conhecimento do projeto **Sowza Career Assistant** e representam a identidade profissional construída por Tatiane Souza.
 
 ---
 
-# História
+## O que é a SowzaTech?
 
-Após anos de atuação em outras áreas profissionais, Tatiane iniciou sua jornada na tecnologia em 2023.
+**SowzaTech** é a marca profissional criada por **Tatiane Souza** para representar sua atuação na área de tecnologia. A marca opera sob a entidade Sowzatech.
 
-Desde então, vem construindo uma trajetória baseada em aprendizado contínuo, desenvolvimento de projetos práticos e participação em programas de formação, consolidando gradualmente sua carreira como desenvolvedora.
+A marca nasceu durante sua transição de carreira para o desenvolvimento de software e tem como propósito reunir projetos, estudos, certificações e iniciativas que demonstram sua evolução profissional.
 
-A criação da Sowza.dev representa esse novo momento profissional, unindo conhecimento técnico, criatividade e compromisso com a evolução constante.
-
----
-
-# Missão
-
-Desenvolver soluções digitais modernas, acessíveis e eficientes que contribuam para melhorar a experiência das pessoas, aplicando boas práticas de desenvolvimento de software e aprendizado contínuo.
+Mais do que um nome, a SowzaTech representa o compromisso com o aprendizado contínuo, a inovação e o desenvolvimento de soluções digitais de qualidade.
 
 ---
 
-# Visão
+## História
 
-Ser reconhecida como uma profissional de tecnologia comprometida com qualidade, inovação e desenvolvimento contínuo, participando de projetos que gerem impacto positivo para empresas e usuários.
+Após anos de experiência em outras áreas profissionais, Tatiane Souza iniciou sua transição para a tecnologia em 2023.
+
+Desde então, vem construindo uma trajetória baseada em estudo constante, participação em programas de formação, desenvolvimento de projetos práticos e busca por aperfeiçoamento técnico.
+
+A criação da **SowzaTech** simboliza essa nova fase profissional, consolidando uma identidade voltada ao desenvolvimento de software, à inovação e à construção de soluções digitais.
 
 ---
 
-# Valores
+## Identidade Visual
 
-Os principais valores da Sowza.tech são:
+### Tagline
+
+*"código com alma. design que move."*
+
+### Paleta de Cores
+
+- **Ember Orange:** #E8440A
+- **Dark Purple:** #3B0A45
+
+### Tipografia
+
+- **Bebas Neue** — títulos e destaques
+- **DM Sans** — corpo de texto
+
+---
+
+## Missão
+
+Desenvolver soluções digitais modernas, acessíveis e eficientes, aplicando boas práticas de desenvolvimento de software para gerar valor às pessoas, empresas e à comunidade de tecnologia.
+
+---
+
+## Visão
+
+Consolidar a **SowzaTech** como uma marca reconhecida pela qualidade técnica, inovação, aprendizado contínuo e desenvolvimento de soluções digitais que gerem impacto positivo.
+
+---
+
+## Valores
+
+Os princípios que orientam a atuação da SowzaTech são:
 
 - Aprendizado contínuo
 - Ética
@@ -54,11 +74,11 @@ Os principais valores da Sowza.tech são:
 
 ---
 
-# Áreas de Atuação
+## Áreas de Atuação
 
-A Sowza.tech concentra seus estudos e projetos nas seguintes áreas:
+A SowzaTech concentra seus estudos, projetos e soluções nas seguintes áreas:
 
-- Desenvolvimento Front-End
+- Desenvolvimento Web Front-End
 - Desenvolvimento Full Stack
 - Inteligência Artificial
 - Computação em Nuvem
@@ -67,57 +87,58 @@ A Sowza.tech concentra seus estudos e projetos nas seguintes áreas:
 
 ---
 
-# Tecnologias
+## Público-Alvo
 
-As principais tecnologias utilizadas incluem:
-
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- React
-- Next.js
-- Python
-- Java
-- Git
-- GitHub
-- LangChain
-- ChromaDB
-- Streamlit
-- Oracle Cloud Infrastructure
-- Amazon Web Services
-
----
-
-# Público-Alvo
-
-A Sowza.tech desenvolve soluções voltadas para:
+A SowzaTech desenvolve soluções e compartilha conhecimento para:
 
 - Empresas
 - Recrutadores
 - Comunidade de tecnologia
 - Desenvolvedores
-- Pessoas interessadas em tecnologia
+- Estudantes de tecnologia
 - Clientes que buscam soluções digitais
 
 ---
 
-# Objetivos da Marca
+## Objetivos da Marca
 
-- Construir uma carreira sólida em tecnologia.
+A SowzaTech busca:
+
+- Construir uma carreira sólida na área de tecnologia.
 - Desenvolver projetos relevantes para o portfólio.
 - Compartilhar conhecimento com a comunidade.
 - Demonstrar evolução técnica por meio de projetos práticos.
-- Contribuir para soluções inovadoras utilizando tecnologia.
+- Desenvolver soluções inovadoras utilizando tecnologias modernas.
+- Fortalecer sua presença profissional no mercado de tecnologia.
 
 ---
 
-# Identidade Profissional
+## Posicionamento Profissional
 
-A Sowza.tech representa uma profissional dedicada ao aprendizado contínuo, à construção de soluções digitais de qualidade e à evolução constante na área de tecnologia.
+A SowzaTech representa uma marca comprometida com a construção de soluções digitais modernas, acessíveis e de qualidade.
+
+Seu posicionamento é baseado na combinação entre aprendizado contínuo, aplicação prática do conhecimento, colaboração e evolução constante, buscando sempre entregar valor por meio da tecnologia.
 
 ---
 
-# Atualização
+## Palavras-chave
 
-Este documento deve ser revisado sempre que houver mudanças no posicionamento da marca, objetivos profissionais ou áreas de atuação.
+Tatiane Souza, SowzaTech, Sowzatech, Marca Pessoal, Personal Branding, código com alma design que move, Ember Orange, Dark Purple, Bebas Neue, DM Sans, Identidade Visual, Desenvolvimento Web, Front-End, Full Stack, Inteligência Artificial, Cloud Computing, Engenharia de Software, Tecnologia, Inovação
+
+---
+
+## Referências
+
+Este documento complementa as informações presentes em:
+
+- `01_sobre_mim.md`
+- `05_projetos.md`
+- `07_portfolio.md`
+- `08_contato.md`
+- `09_objetivos_profissionais.md`
+
+---
+
+## Atualização
+
+Este documento deve ser revisado sempre que houver mudanças na identidade da marca, no posicionamento profissional, nos objetivos estratégicos ou nas áreas de atuação da SowzaTech.

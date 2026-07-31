@@ -2,35 +2,40 @@
 
 ## Objetivo deste documento
 
-Este documento reúne a trajetória profissional de Tatiane Santos de Souza, incluindo experiências anteriores à transição para a área de tecnologia e atividades relacionadas ao desenvolvimento de software.
+Este documento reúne a trajetória profissional de **Tatiane Souza**, incluindo experiências anteriores à transição para a área de tecnologia e atividades relacionadas ao desenvolvimento profissional.
+
+Seu objetivo é apresentar a evolução da carreira, destacando responsabilidades, competências desenvolvidas e experiências relevantes.
 
 ---
 
-# Resumo Profissional
+## Resumo Profissional
 
-Tatiane Santos de Souza possui experiência em diferentes áreas profissionais, desenvolvendo competências como organização, comunicação, atendimento ao público, resolução de problemas, planejamento e trabalho em equipe.
+Tatiane Souza possui experiência em diferentes áreas profissionais, desenvolvendo competências em organização, comunicação, atendimento ao público, planejamento, gestão e resolução de problemas.
 
-Em 2023 iniciou sua transição de carreira para a área de tecnologia, direcionando seus estudos para Desenvolvimento Web Front-End, Inteligência Artificial e Computação em Nuvem.
+Em 2023 iniciou sua transição de carreira para a área de tecnologia, direcionando seus estudos ao Desenvolvimento Web Front-End, Inteligência Artificial, Computação em Nuvem e Desenvolvimento de Software.
 
 ---
 
-# Área Administrativa
+## Experiência na Área Administrativa
 
-## Cargo
+### Secretária e Assistente Administrativo
 
-Profissional Administrativa
+**Período:** 2002 a 2007
 
-### Principais atividades
+**Instituição:** Abatedouro Avícola Rodrigues Ltda.
 
+**Descrição**
+Atuação como secretária e assistente administrativo em supermercado vinculado ao Abatedouro Avícola Rodrigues Ltda., desempenhando funções que exigiam responsabilidade, organização, atenção aos detalhes e compromisso com resultados.
+
+**Principais atividades**
 - Organização de documentos
 - Atendimento ao público
 - Controle de informações
-- Apoio administrativo
+- Apoio às rotinas administrativas
 - Organização de processos
-- Rotinas administrativas
+- Suporte operacional
 
-### Competências desenvolvidas
-
+**Competências desenvolvidas**
 - Organização
 - Comunicação
 - Planejamento
@@ -39,50 +44,43 @@ Profissional Administrativa
 
 ---
 
-# Empreendedorismo
+## Empreendedorismo
 
-## Avicultura
+### Gestão de Lava Jato
 
-### Período
+**Período:** 2008 a 2017
 
-2008 a 2017
+**Descrição**
+Atuação como empresária, responsável pela gestão de um lava jato, acumulando as funções de administração do negócio e atendimento no caixa.
 
-### Descrição
-
-Atuação como empreendedora no segmento de avicultura, sendo responsável pela gestão das atividades do negócio.
-
-### Principais responsabilidades
-
+**Principais responsabilidades**
 - Atendimento a clientes
-- Organização financeira
+- Controle financeiro
+- Operação de caixa
 - Controle de estoque
 - Planejamento das atividades
-- Gestão da produção
+- Gestão do negócio
 
-### Competências desenvolvidas
-
+**Competências desenvolvidas**
 - Liderança
 - Gestão
 - Organização
 - Atendimento ao cliente
 - Resolução de problemas
+- Tomada de decisão
 
 ---
 
-# Educação
+## Educação
 
-## Educação Infantil
+### Apoio à Educação Infantil
 
-### Período
+**Período:** 2018 a 2019
 
-2018 a 2019
+**Descrição**
+Atuação em atividades de apoio e acompanhamento no ambiente de educação infantil, contribuindo para a organização das rotinas e o desenvolvimento das atividades pedagógicas.
 
-### Descrição
-
-Atuação em atividades relacionadas ao acompanhamento e apoio no ambiente educacional infantil.
-
-### Competências desenvolvidas
-
+**Competências desenvolvidas**
 - Comunicação
 - Organização
 - Empatia
@@ -91,34 +89,64 @@ Atuação em atividades relacionadas ao acompanhamento e apoio no ambiente educa
 
 ---
 
-# Transição para Tecnologia
+## Cuidado Familiar e Trabalhos Autônomos
 
-## Início
+**Período:** 2019 a 2023
 
-2023
+**Descrição**
+Período dedicado ao cuidado de uma pré-adolescente, conciliado com a realização de trabalhos autônomos na área administrativa.
 
-### Objetivo
-
-Migrar da área administrativa para o desenvolvimento de software, buscando oportunidades como Desenvolvedora Front-End.
-
-### Ações realizadas
-
-- Participação em cursos
-- Bootcamps
-- Programas de formação
-- Desenvolvimento de projetos
-- Construção de portfólio
-- Participação em comunidades de tecnologia
+**Competências desenvolvidas**
+- Organização
+- Gestão de tempo
+- Responsabilidade
+- Multitarefa
+- Planejamento
 
 ---
 
-# Desenvolvimento de Projetos
+## Transição para a Tecnologia
 
-Durante a formação em tecnologia foram desenvolvidos diversos projetos utilizando tecnologias modernas voltadas ao desenvolvimento web.
+**Início:** 2023
 
-Principais áreas:
+### Objetivo
 
-- Front-End
+Migrar da área administrativa para o desenvolvimento de software, construindo uma carreira como Desenvolvedora Front-End.
+
+### Principais ações
+
+- Participação em cursos e bootcamps
+- Programas de formação em tecnologia
+- Desenvolvimento de projetos práticos
+- Construção de portfólio profissional
+- Participação em comunidades de tecnologia
+- Estudos contínuos em Inteligência Artificial e Cloud Computing
+
+---
+
+## Processos Seletivos e Oportunidades
+
+### Residência PUC-Rio / ECOA — Trilha IA Generativa & RAG
+
+**Período:** Julho de 2026 (etapa administrativa)
+
+**Descrição**
+Participação no processo seletivo da Residência PUC-Rio/ECOA, na trilha de Inteligência Artificial Generativa & RAG. Embora não selecionada nesta etapa, o processo representou uma oportunidade de aplicar e validar os conhecimentos construídos ao longo da formação em IA, além de reforçar a preparação de materiais como currículo e portfólio técnico.
+
+**Aprendizados**
+- Preparação de currículo com foco técnico em IA Generativa
+- Vivência prática de processos seletivos na área de tecnologia
+- Reforço da motivação para aprofundamento contínuo em RAG e Engenharia de Agentes
+
+---
+
+## Experiência em Desenvolvimento de Software
+
+Atualmente desenvolve projetos acadêmicos e pessoais como forma de consolidar conhecimentos e ampliar a experiência prática em desenvolvimento de software.
+
+As principais áreas de atuação incluem:
+
+- Desenvolvimento Front-End
 - React
 - Next.js
 - JavaScript
@@ -127,39 +155,28 @@ Principais áreas:
 - Inteligência Artificial
 - Cloud Computing
 
----
-
-# Competências Profissionais
-
-Ao longo da carreira foram desenvolvidas competências como:
-
-## Competências Técnicas
-
-- Desenvolvimento Web
-- Versionamento com Git
-- GitHub
-- Cloud Computing
-- Inteligência Artificial
-
-## Competências Comportamentais
-
-- Organização
-- Proatividade
-- Aprendizado contínuo
-- Trabalho em equipe
-- Comunicação
-- Adaptabilidade
-- Persistência
-- Resolução de problemas
+Os detalhes dos projetos desenvolvidos encontram-se no documento **`05_projetos.md`**.
 
 ---
 
-# Objetivo Atual
+## Palavras-chave
 
-Atualmente busca uma oportunidade profissional como Desenvolvedora Front-End, com interesse em atuar em projetos envolvendo desenvolvimento web, inteligência artificial e computação em nuvem.
+Tatiane Souza, SowzaTech, Experiência Profissional, Área Administrativa, Secretária, Assistente Administrativo, Abatedouro Avícola Rodrigues, Empreendedorismo, Lava Jato, Gestão de Caixa, Educação Infantil, Cuidado Familiar, Trabalho Autônomo, Residência PUC-Rio, ECOA, Transição de Carreira, Desenvolvimento Web, Front-End, Inteligência Artificial, Cloud Computing
 
 ---
 
-# Atualização
+## Referências
 
-Este documento deve ser atualizado sempre que houver uma nova experiência profissional, trabalho voluntário, projeto relevante ou atuação no mercado de tecnologia.
+Este documento complementa as informações presentes em:
+
+- `01_sobre_mim.md`
+- `02_formacao.md`
+- `04_habilidades_tecnicas.md`
+- `05_projetos.md`
+- `09_objetivos_profissionais.md`
+
+---
+
+## Atualização
+
+Este documento deve ser atualizado sempre que houver uma nova experiência profissional, atuação em projetos relevantes, participação em trabalhos voluntários ou experiências relacionadas ao mercado de tecnologia.

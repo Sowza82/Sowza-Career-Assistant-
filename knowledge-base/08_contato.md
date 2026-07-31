@@ -2,122 +2,103 @@
 
 ## Objetivo deste documento
 
-Este documento reúne os principais canais de contato e presença digital de Tatiane Santos de Souza (Sowza.dev).
+Este documento reúne os principais canais de contato e a presença digital de **Tatiane Souza**, facilitando o acesso de recrutadores, empresas, clientes e colaboradores às suas informações profissionais.
 
-As informações devem ser mantidas sempre atualizadas para garantir que recrutadores, empresas e colaboradores consigam localizar seus perfis profissionais.
-
----
-
-# Informações Pessoais
-
-## Nome
-
-Tatiane Santos de Souza
-
-## Nome Profissional
-
-Sowza.dev
-
-## Área de Atuação
-
-Desenvolvimento Web Front-End
+As informações aqui registradas devem permanecer sempre atualizadas para garantir a confiabilidade da base de conhecimento do **Sowza Career Assistant**.
 
 ---
 
-# Localização
+## Informações Profissionais
 
-## País
-
-Brasil
-
-## Estado
-
-Bahia
+- **Nome:** Tatiane Souza
+- **Marca Profissional:** SowzaTech
+- **Área de Atuação:** Desenvolvimento Web Front-End
 
 ---
 
-# Contatos Profissionais
+## Localização
 
-## GitHub
-
-https://github.com/Sowza82
-
-Descrição:
-
-Repositório com projetos, estudos, desafios técnicos e aplicações desenvolvidas durante a formação em tecnologia.
+- **País:** Brasil
+- **Estado:** Bahia
+- **Cidade:** Salvador
 
 ---
 
-## LinkedIn
+## Canais Profissionais
 
-https://www.linkedin.com/in/tatiane-souza-tech
+### E-mail
 
-Descrição:
+**Contato:** sowzatech@gmail.com
 
-Perfil profissional com informações sobre experiência, certificações, projetos e formação.
-
----
-
-## Instagram Profissional
-
-@sowzatech
-
-Descrição:
-
-Perfil dedicado ao compartilhamento da jornada em tecnologia, projetos, estudos e conteúdos relacionados ao desenvolvimento de software.
+**Descrição:** Canal de e-mail profissional para contato de recrutadores, empresas e oportunidades de trabalho.
 
 ---
 
-## Portfólio
+### GitHub
 
-Situação:
+**Perfil:** https://github.com/Sowza82
 
-Em desenvolvimento.
-
-Descrição:
-
-O portfólio reunirá projetos, certificações, competências técnicas e formas de contato.
+**Descrição:** Repositório contendo projetos, estudos, desafios técnicos e aplicações desenvolvidas durante a formação e evolução profissional na área de tecnologia.
 
 ---
 
-# Áreas de Interesse
+### LinkedIn
 
-- Desenvolvimento Front-End
-- React
-- Next.js
-- Inteligência Artificial
-- Cloud Computing
-- Desenvolvimento Full Stack
+**Perfil:** https://www.linkedin.com/in/tatiane-souza-tech
+
+**Descrição:** Perfil profissional com informações sobre trajetória, formação, certificações, projetos e experiências na área de tecnologia.
 
 ---
 
-# Disponibilidade
+### Instagram Profissional
 
-Atualmente busca oportunidades para atuar como Desenvolvedora Front-End, contribuindo em projetos que valorizem aprendizado contínuo, colaboração e desenvolvimento de soluções digitais.
+**Usuário:** @sowzatech
 
----
-
-# Idiomas
-
-Português
-
-- Nativo
-
-Inglês
-
-- Básico para leitura técnica.
-- Em desenvolvimento.
+**Descrição:** Perfil dedicado ao compartilhamento da jornada em tecnologia, estudos, projetos, aprendizados e conteúdos relacionados ao desenvolvimento de software.
 
 ---
 
-# Atualização
+### Portfólio
+
+**Domínio:** sowza.dev
+
+**Status:** Em desenvolvimento
+
+**Descrição:** Ambiente destinado à apresentação de projetos, certificações, habilidades técnicas e informações profissionais.
+
+---
+
+## Disponibilidade Profissional
+
+Atualmente busca oportunidades para atuar como **Desenvolvedora Front-End**, participando de projetos que valorizem aprendizado contínuo, inovação, colaboração e desenvolvimento de soluções digitais.
+
+---
+
+## Palavras-chave
+
+Tatiane Souza, SowzaTech, Contato, E-mail, GitHub, LinkedIn, Instagram, sowza.dev, Portfólio, Desenvolvedora Front-End, Salvador, Bahia, Brasil
+
+---
+
+## Referências
+
+Este documento complementa as informações presentes em:
+
+- `01_sobre_mim.md`
+- `05_projetos.md`
+- `07_portfolio.md`
+- `09_objetivos_profissionais.md`
+
+---
+
+## Atualização
 
 Este documento deve ser atualizado sempre que houver alteração em:
 
+- E-mail profissional
 - GitHub
 - LinkedIn
 - Portfólio
 - Redes sociais profissionais
-- E-mail profissional
 - Disponibilidade profissional
 - Localização (quando relevante)
