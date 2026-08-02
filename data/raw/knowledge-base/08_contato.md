@@ -2,7 +2,7 @@
 
 ## Objetivo deste documento
 
-Este documento reúne os principais canais de contato e a presença digital de **Tatiane Souza**, facilitando o acesso de recrutadores, empresas, clientes e colaboradores às suas informações profissionais.
+Este documento reúne os principais canais de contato e a presença digital de **Tatiane Souza**, facilitando o acesso de recrutadores, empresas e clientes às suas informações profissionais.
 
 As informações aqui registradas devem permanecer sempre atualizadas para garantir a confiabilidade da base de conhecimento do **Sowza Career Assistant**.
 
@@ -11,8 +11,8 @@ As informações aqui registradas devem permanecer sempre atualizadas para garan
 ## Informações Profissionais
 
 - **Nome:** Tatiane Souza
-- **Marca Profissional:** SowzaTech
-- **Área de Atuação:** Desenvolvimento Web Front-End
+- **Marca profissional:** SowzaTech
+- **Área de atuação:** Desenvolvimento Web Front-End
 
 ---
 
@@ -30,7 +30,7 @@ As informações aqui registradas devem permanecer sempre atualizadas para garan
 
 **Contato:** sowzatech@gmail.com
 
-**Descrição:** Canal de e-mail profissional para contato de recrutadores, empresas e oportunidades de trabalho.
+**Descrição:** Canal de e-mail profissional destinado ao contato com recrutadores, empresas e oportunidades de trabalho.
 
 ---
 
@@ -50,7 +50,7 @@ As informações aqui registradas devem permanecer sempre atualizadas para garan
 
 ---
 
-### Instagram Profissional
+### Instagram profissional
 
 **Usuário:** @sowzatech
 
@@ -70,7 +70,7 @@ As informações aqui registradas devem permanecer sempre atualizadas para garan
 
 ## Disponibilidade Profissional
 
-Atualmente busca oportunidades para atuar como **Desenvolvedora Front-End**, participando de projetos que valorizem aprendizado contínuo, inovação, colaboração e desenvolvimento de soluções digitais.
+Atualmente, busca oportunidades para atuar como **Desenvolvedora Front-End**, participando de projetos que valorizem aprendizado contínuo, inovação, colaboração e desenvolvimento de soluções digitais.
 
 ---
 

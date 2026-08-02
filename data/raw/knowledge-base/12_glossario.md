@@ -4,27 +4,27 @@
 
 Este glossário reúne os principais termos técnicos, siglas, tecnologias e conceitos utilizados na base de conhecimento do **Sowza Career Assistant**.
 
-Seu objetivo é facilitar a compreensão da documentação e auxiliar o agente na interpretação correta dos conceitos relacionados ao projeto.
+Seu objetivo é facilitar a compreensão da documentação e auxiliar o agente na interpretação correta dos conceitos relacionados ao projeto, às tecnologias utilizadas e à trajetória profissional de Tatiane Souza.
 
 ---
 
-## A
+# A
 
-### API
+## API
 
 **Application Programming Interface.**
 
-Conjunto de regras que permite a comunicação entre diferentes sistemas e aplicações.
+Conjunto de regras e protocolos que permite a comunicação entre diferentes sistemas, aplicações e serviços.
 
 ---
 
-### Anthropic
+## Anthropic
 
-Empresa de Inteligência Artificial responsável pelo desenvolvimento do modelo de linguagem **Claude**, utilizado no projeto Sowza Assistant por meio de sua API.
+Empresa de Inteligência Artificial responsável pelo desenvolvimento do modelo de linguagem **Claude**, utilizado no projeto **Sowza Career Assistant** por meio de sua API.
 
 ---
 
-### AWS
+## AWS
 
 **Amazon Web Services.**
 
@@ -32,319 +32,349 @@ Plataforma de Computação em Nuvem da Amazon que oferece serviços de infraestr
 
 ---
 
-## B
+# B
 
-### Back-End
+## Back-End
 
-Parte de uma aplicação responsável pela lógica de negócio, processamento de dados, autenticação e comunicação com bancos de dados.
-
----
-
-### Banco Vetorial
-
-Tipo de banco de dados utilizado para armazenar embeddings, permitindo buscas semânticas eficientes em sistemas baseados em Inteligência Artificial.
+Parte de uma aplicação responsável pela lógica de negócio, processamento de dados, autenticação, regras da aplicação e comunicação com bancos de dados.
 
 ---
 
-## C
+## Banco Vetorial
 
-### ChromaDB
+Tipo de banco de dados utilizado para armazenar embeddings, permitindo realizar buscas semânticas por similaridade em aplicações de Inteligência Artificial.
+
+---
+
+# C
+
+## ChromaDB
 
 Banco de dados vetorial utilizado para armazenar embeddings e realizar buscas semânticas em aplicações baseadas em RAG.
 
 ---
 
-### Chunk
+## Chunk
 
-Fragmento de texto criado a partir de um documento maior para facilitar o processamento, indexação e recuperação de informações.
-
----
-
-### Claude
-
-Modelo de linguagem (LLM) desenvolvido pela Anthropic, acessado via API e utilizado no pipeline de geração de respostas do projeto Sowza Assistant.
+Fragmento de texto criado a partir da divisão de um documento maior para facilitar o processamento, indexação e recuperação de informações por sistemas de Inteligência Artificial.
 
 ---
 
-### Cloud Computing
+## Claude
 
-Modelo de computação que disponibiliza recursos como servidores, armazenamento, bancos de dados e serviços por meio da internet.
-
----
-
-### Cohere
-
-Plataforma de Inteligência Artificial que fornece modelos de linguagem via API, utilizada no projeto HR Buddy para geração de respostas.
+Modelo de linguagem (**LLM**) desenvolvido pela Anthropic, utilizado para geração de respostas no pipeline de Inteligência Artificial do **Sowza Career Assistant**.
 
 ---
 
-## D
+## Cloud Computing
 
-### Deploy
+Modelo de computação que disponibiliza recursos tecnológicos como servidores, armazenamento, bancos de dados e serviços computacionais por meio da internet.
 
-Processo de publicação de uma aplicação para disponibilizá-la aos usuários.
-
----
-
-## E
-
-### Embedding
-
-Representação numérica de um texto utilizada por modelos de Inteligência Artificial para medir similaridade entre informações.
+Também conhecido como **Computação em Nuvem**.
 
 ---
 
-## F
+## Cohere
 
-### FastAPI
+Plataforma de Inteligência Artificial que fornece modelos de linguagem via API.
 
-Framework Python utilizado para construção de APIs modernas e de alta performance, utilizado no back-end do projeto Sowza Assistant.
-
----
-
-### Front-End
-
-Parte visual de uma aplicação com a qual o usuário interage diretamente.
+Foi utilizada no projeto **HR Buddy** para geração de respostas utilizando Inteligência Artificial.
 
 ---
 
-## G
+# D
 
-### Git
+## Deploy
 
-Sistema de controle de versões utilizado para registrar alterações no código-fonte.
-
----
-
-### GitHub
-
-Plataforma para hospedagem, versionamento e colaboração em projetos utilizando Git.
+Processo de publicação de uma aplicação em um ambiente de hospedagem para disponibilizá-la aos usuários.
 
 ---
 
-### Google Colab
+# E
 
-Ambiente online para execução de código Python diretamente no navegador, amplamente utilizado em Ciência de Dados e Inteligência Artificial.
+## Embedding
 
----
-
-### Google Gemini
-
-Família de modelos de Inteligência Artificial desenvolvidos pelo Google para geração e compreensão de linguagem natural.
+Representação numérica de um texto ou informação utilizada por modelos de Inteligência Artificial para calcular similaridade entre conteúdos.
 
 ---
 
-## H
+# F
 
-### HTML
+## FastAPI
+
+Framework Python utilizado para construção de APIs modernas, rápidas e eficientes.
+
+Foi utilizado como tecnologia de Back-End no projeto **Sowza Career Assistant**.
+
+---
+
+## Front-End
+
+Parte visual de uma aplicação responsável pela interação direta com o usuário.
+
+Inclui interfaces, componentes visuais, experiência do usuário e comportamento no navegador.
+
+---
+
+# G
+
+## Git
+
+Sistema de controle de versões utilizado para registrar alterações no código-fonte e facilitar o desenvolvimento colaborativo.
+
+---
+
+## GitHub
+
+Plataforma utilizada para hospedagem de repositórios Git, compartilhamento de código e colaboração em projetos de software.
+
+---
+
+## Google Colab
+
+Ambiente online para execução de código Python diretamente no navegador.
+
+É amplamente utilizado em projetos de Ciência de Dados, Inteligência Artificial e experimentação de modelos.
+
+---
+
+## Google Gemini
+
+Família de modelos de Inteligência Artificial desenvolvidos pelo Google para compreensão e geração de linguagem natural.
+
+---
+
+# H
+
+## HTML
 
 **HyperText Markup Language.**
 
-Linguagem de marcação utilizada para estruturar páginas web.
+Linguagem de marcação utilizada para estruturar páginas e documentos da web.
 
 ---
 
-## I
+# I
 
-### Inteligência Artificial (IA)
+## Inteligência Artificial (IA)
 
-Área da computação dedicada ao desenvolvimento de sistemas capazes de executar tarefas que normalmente exigiriam inteligência humana.
-
----
-
-## J
-
-### JavaScript
-
-Linguagem de programação utilizada principalmente no desenvolvimento de aplicações web.
+Área da computação dedicada ao desenvolvimento de sistemas capazes de executar tarefas que normalmente exigiriam inteligência humana, como compreensão de linguagem, reconhecimento de padrões e geração de conteúdo.
 
 ---
 
-### JWT
+# J
+
+## JavaScript
+
+Linguagem de programação utilizada principalmente no desenvolvimento de aplicações web, permitindo criar interfaces interativas e aplicações completas.
+
+---
+
+## JWT
 
 **JSON Web Token.**
 
-Padrão utilizado para autenticação e transmissão segura de informações entre partes, comumente usado em sistemas de login e controle de acesso baseado em papéis (roles).
+Padrão utilizado para autenticação e transmissão segura de informações entre aplicações.
+
+É frequentemente utilizado em sistemas de login e controle de acesso baseado em papéis (**roles**).
 
 ---
 
-## L
+# L
 
-### LangChain
+## LangChain
 
-Framework para desenvolvimento de aplicações baseadas em Modelos de Linguagem (LLMs), facilitando integrações com modelos de IA, bancos vetoriais e pipelines RAG.
+Framework utilizado para desenvolvimento de aplicações baseadas em Modelos de Linguagem (**LLMs**).
+
+Facilita integrações com modelos de IA, bancos vetoriais, ferramentas externas e pipelines RAG.
 
 ---
 
-### LLM
+## LLM
 
 **Large Language Model.**
 
-Modelo de linguagem treinado para compreender e gerar texto em linguagem natural.
+Modelo de linguagem treinado com grandes volumes de dados para compreender e gerar textos em linguagem natural.
 
 ---
 
-## M
+# M
 
-### Markdown
+## Markdown
 
-Linguagem de marcação leve utilizada para criar documentos de texto estruturados.
+Linguagem de marcação leve utilizada para criação de documentos estruturados em texto.
 
-Os documentos da base de conhecimento do Sowza Career Assistant são escritos nesse formato.
+Os documentos da base de conhecimento do **Sowza Career Assistant** são escritos nesse formato.
 
 ---
 
-### MCP
+## MCP
 
 **Model Context Protocol.**
 
-Protocolo que permite a integração de agentes de IA com ferramentas e fontes de dados externas, utilizado em ferramentas de desenvolvimento assistido por IA como Claude Code.
+Protocolo criado para permitir integração entre modelos de Inteligência Artificial, ferramentas e fontes externas de informação.
+
+É utilizado em ferramentas modernas de desenvolvimento assistido por IA, como Claude Code.
 
 ---
 
-## N
+# N
 
-### n8n
+## n8n
 
-Ferramenta de automação de fluxos de trabalho (workflow automation) de código aberto, utilizada para construir agentes de IA de forma visual e low-code, como no projeto HR Buddy.
+Ferramenta de automação de fluxos de trabalho (**workflow automation**) de código aberto.
 
----
+Permite criar integrações e agentes de IA utilizando uma abordagem visual e low-code.
 
-### NestJS
-
-Framework para construção de aplicações back-end em Node.js, utilizando TypeScript e uma arquitetura modular inspirada no Angular.
+Foi utilizada no projeto **HR Buddy**.
 
 ---
 
-### Next.js
+## NestJS
 
-Framework baseado em React utilizado para desenvolvimento de aplicações web modernas.
+Framework para desenvolvimento Back-End utilizando Node.js e TypeScript.
+
+Possui arquitetura modular inspirada no Angular.
 
 ---
 
-## O
+## Next.js
 
-### OCI
+Framework baseado em React utilizado para desenvolvimento de aplicações web modernas, oferecendo recursos como roteamento, renderização no servidor e otimização de performance.
+
+---
+
+# O
+
+## OCI
 
 **Oracle Cloud Infrastructure.**
 
-Plataforma de Computação em Nuvem da Oracle.
+Plataforma de Computação em Nuvem desenvolvida pela Oracle.
+
+Oferece serviços de infraestrutura, armazenamento, redes, segurança e computação.
 
 ---
 
-## P
+# P
 
-### Prisma
+## Prisma
 
-ORM (Object-Relational Mapping) para Node.js e TypeScript, utilizado para facilitar a modelagem e o acesso a bancos de dados relacionais.
-
----
-
-### Prompt Engineering
-
-Conjunto de técnicas utilizadas para criar instruções eficientes para modelos de Inteligência Artificial.
+ORM (**Object-Relational Mapping**) utilizado em aplicações Node.js e TypeScript para facilitar a modelagem e comunicação com bancos de dados relacionais.
 
 ---
 
-### Python
+## Prompt Engineering
 
-Linguagem de programação amplamente utilizada em Inteligência Artificial, automação, desenvolvimento web e análise de dados.
+Conjunto de técnicas utilizadas para criar instruções eficientes para modelos de Inteligência Artificial, buscando respostas mais precisas e úteis.
 
 ---
 
-## R
+## Python
 
-### RAG
+Linguagem de programação amplamente utilizada em Inteligência Artificial, automação, desenvolvimento web, análise de dados e construção de APIs.
+
+---
+
+# R
+
+## RAG
 
 **Retrieval-Augmented Generation.**
 
-Técnica que combina recuperação de informações em uma base de conhecimento com Modelos de Linguagem para produzir respostas mais precisas e fundamentadas.
+Técnica de Inteligência Artificial que combina recuperação de informações em uma base de conhecimento com Modelos de Linguagem (**LLMs**) para gerar respostas mais precisas e contextualizadas.
+
+O **Sowza Career Assistant** utiliza essa arquitetura.
 
 ---
 
-### React
+## React
 
-Biblioteca JavaScript utilizada para construção de interfaces de usuário.
-
----
-
-### Render.com
-
-Plataforma de hospedagem em nuvem utilizada para deploy de aplicações web e APIs, escolhida como ambiente de deploy do projeto Sowza Assistant.
+Biblioteca JavaScript utilizada para criação de interfaces de usuário modernas baseadas em componentes.
 
 ---
 
-## S
+## Render.com
 
-### Streamlit
+Plataforma de hospedagem em nuvem utilizada para publicação de aplicações web e APIs.
+
+É o ambiente planejado para deploy do **Sowza Career Assistant**.
+
+---
+
+# S
+
+## Streamlit
 
 Framework Python utilizado para criação rápida de interfaces web para aplicações de Ciência de Dados e Inteligência Artificial.
 
 ---
 
-## T
+# T
 
-### Tailwind CSS
+## Tailwind CSS
 
-Framework CSS utility-first que permite a estilização de interfaces diretamente pelas classes HTML, sem a necessidade de escrever CSS customizado.
+Framework CSS baseado no conceito **utility-first**, permitindo criar interfaces utilizando classes prontas diretamente no HTML ou componentes.
 
 ---
 
-### TF-IDF
+## TF-IDF
 
 **Term Frequency-Inverse Document Frequency.**
 
-Técnica estatística utilizada para avaliar a relevância de uma palavra em um documento em relação a uma coleção de documentos, aplicada na recuperação de informações em sistemas RAG.
+Técnica estatística utilizada para avaliar a importância de palavras dentro de documentos.
+
+Pode ser aplicada em sistemas de recuperação de informações e mecanismos de busca textual.
 
 ---
 
-### TypeScript
+## TypeScript
 
-Superset do JavaScript que adiciona tipagem estática à linguagem.
+Superset do JavaScript que adiciona tipagem estática, permitindo maior segurança e organização no desenvolvimento de aplicações.
 
 ---
 
-## U
+# U
 
-### UI
+## UI
 
 **User Interface.**
 
-Parte visual responsável pela interação entre o usuário e uma aplicação.
+Interface visual responsável pela interação entre usuário e aplicação.
 
 ---
 
-### UX
+## UX
 
 **User Experience.**
 
-Conjunto de práticas voltadas para melhorar a experiência do usuário durante a utilização de um produto digital.
+Área dedicada à experiência do usuário durante a utilização de produtos e serviços digitais.
 
 ---
 
-## V
+# V
 
-### Vector Store
+## Vector Store
 
-Estrutura utilizada para armazenar embeddings e realizar buscas por similaridade em aplicações baseadas em Inteligência Artificial.
+Estrutura utilizada para armazenar embeddings e realizar buscas por similaridade em aplicações de Inteligência Artificial.
 
 O ChromaDB é um exemplo de Vector Store.
 
 ---
 
-### Vercel
+## Vercel
 
-Plataforma de hospedagem amplamente utilizada para aplicações React e Next.js.
-
----
-
-## Palavras-chave
-
-Glossário, Sowza Career Assistant, Inteligência Artificial, RAG, LangChain, ChromaDB, TF-IDF, FastAPI, Anthropic, Claude, Cohere, n8n, JWT, Prisma, NestJS, Tailwind CSS, MCP, Render, Streamlit, Google Gemini, Python, React, Next.js, HTML, JavaScript, TypeScript, Cloud Computing, AWS, OCI, Git, GitHub, Markdown
+Plataforma de hospedagem utilizada principalmente para aplicações React e Next.js.
 
 ---
 
-## Referências
+# Palavras-chave
+
+Tatiane Souza, SowzaTech, Sowza Career Assistant, Sowza Assistant, Glossário, Inteligência Artificial, RAG, LangChain, ChromaDB, TF-IDF, FastAPI, Anthropic, Claude, Cohere, n8n, JWT, Prisma, NestJS, Tailwind CSS, MCP, Render.com, Streamlit, Google Gemini, Python, React, Next.js, HTML, JavaScript, TypeScript, Cloud Computing, AWS, OCI, Git, GitHub, Markdown
+
+---
+
+# Referências
 
 Este documento complementa toda a base de conhecimento, especialmente:
 
@@ -355,6 +385,6 @@ Este documento complementa toda a base de conhecimento, especialmente:
 
 ---
 
-## Atualização
+# Atualização
 
 Este glossário deve ser atualizado sempre que novas tecnologias, ferramentas, frameworks, metodologias ou conceitos forem incorporados ao projeto **Sowza Career Assistant**.

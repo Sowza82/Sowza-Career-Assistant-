@@ -4,7 +4,7 @@
 
 Este documento reúne as perguntas mais frequentes sobre **Tatiane Souza** e a **SowzaTech**.
 
-Seu objetivo é facilitar a recuperação de informações pelo **Sowza Career Assistant**, fornecendo respostas objetivas e direcionando para os documentos especializados da base de conhecimento quando necessário.
+Seu objetivo é facilitar a recuperação de informações pelo **Sowza Career Assistant**, fornecendo respostas objetivas e direcionando consultas para os documentos especializados da base de conhecimento quando necessário.
 
 ---
 
@@ -12,7 +12,7 @@ Seu objetivo é facilitar a recuperação de informações pelo **Sowza Career A
 
 Tatiane Souza é uma desenvolvedora em transição de carreira para a área de tecnologia.
 
-Desde 2023 dedica-se ao estudo de Desenvolvimento Web Front-End, Inteligência Artificial, Computação em Nuvem e Engenharia de Software, construindo projetos práticos e ampliando continuamente seus conhecimentos.
+Desde 2023, dedica-se ao estudo de Desenvolvimento Web Front-End, Inteligência Artificial, Computação em Nuvem e Engenharia de Software, construindo projetos práticos e ampliando continuamente seus conhecimentos técnicos.
 
 **Mais informações em:** `01_sobre_mim.md`
 
@@ -20,9 +20,9 @@ Desde 2023 dedica-se ao estudo de Desenvolvimento Web Front-End, Inteligência A
 
 ## O que é a SowzaTech?
 
-A **SowzaTech** é a marca profissional de Tatiane Souza.
+A **SowzaTech** é a marca profissional criada por Tatiane Souza.
 
-Ela representa sua atuação na área de tecnologia, reunindo projetos, estudos, certificações, portfólio e iniciativas voltadas ao desenvolvimento de software.
+Ela representa sua atuação na área de tecnologia, reunindo projetos, estudos, certificações, portfólio e iniciativas voltadas ao desenvolvimento de software e à inovação digital.
 
 **Mais informações em:** `10_sowzatech.md`
 
@@ -30,7 +30,7 @@ Ela representa sua atuação na área de tecnologia, reunindo projetos, estudos,
 
 ## Onde a Tatiane está localizada?
 
-Tatiane está localizada em **Salvador, Bahia, Brasil**.
+Tatiane Souza está localizada em **Salvador, Bahia, Brasil**.
 
 **Mais informações em:** `08_contato.md`
 
@@ -38,7 +38,7 @@ Tatiane está localizada em **Salvador, Bahia, Brasil**.
 
 ## Qual é a área de atuação da Tatiane?
 
-O foco principal é o **Desenvolvimento Web Front-End**, com evolução contínua para Desenvolvimento Full Stack, Inteligência Artificial e Computação em Nuvem.
+O foco principal de atuação é o **Desenvolvimento Web Front-End**, com evolução contínua para Desenvolvimento Full Stack, Inteligência Artificial e Computação em Nuvem.
 
 **Mais informações em:** `09_objetivos_profissionais.md`
 
@@ -46,47 +46,67 @@ O foco principal é o **Desenvolvimento Web Front-End**, com evolução contínu
 
 ## Ela está disponível para oportunidades de trabalho?
 
-Sim. Tatiane está ativamente em busca de oportunidades como **Desenvolvedora Front-End Júnior**, tanto para vagas **CLT** quanto para projetos **freelance**.
+Sim. Tatiane busca oportunidades como **Desenvolvedora Front-End Júnior**, incluindo vagas no modelo **CLT** e oportunidades de projetos **freelance**.
 
-**Mais informações em:** `08_contato.md`, `09_objetivos_profissionais.md`
+**Mais informações em:** `08_contato.md` e `09_objetivos_profissionais.md`
 
 ---
 
-## Qual a experiência profissional da Tatiane antes da tecnologia?
+## Qual foi a experiência profissional da Tatiane antes da tecnologia?
 
-Antes de migrar para a tecnologia em 2023, Tatiane atuou como secretária e assistente administrativa (2002-2007), foi empresária na gestão de um lava jato (2008-2017), atuou em apoio à educação infantil (2018-2019) e conciliou cuidado familiar com trabalhos autônomos administrativos (2019-2023).
+Antes da transição para tecnologia, iniciada em 2023, Tatiane desenvolveu experiências em diferentes áreas profissionais.
+
+Atuou como secretária e assistente administrativa (2002–2007), foi responsável pela gestão de um lava jato como empreendedora (2008–2017), trabalhou em atividades de apoio à educação infantil (2018–2019) e realizou trabalhos autônomos administrativos conciliados com responsabilidades familiares (2019–2023).
 
 **Mais informações em:** `06_experiencias.md`
 
 ---
 
-## Quais tecnologias Tatiane domina?
+## Quais tecnologias Tatiane conhece?
 
-As habilidades técnicas incluem linguagens de programação, frameworks, ferramentas, bancos de dados, tecnologias de Inteligência Artificial e Cloud Computing.
+As habilidades técnicas incluem linguagens de programação, frameworks Front-End, tecnologias Back-End, bancos de dados, ferramentas de Inteligência Artificial, Cloud Computing e ferramentas de desenvolvimento.
 
 **Mais informações em:** `04_habilidades_tecnicas.md`
 
 ---
 
-## Quais cursos e programas de formação ela participou?
+## Quais cursos e programas de formação ela realizou?
 
-Tatiane participou de diversos cursos, bootcamps e programas de formação voltados ao desenvolvimento de software e computação em nuvem, incluindo DEVstart (SENAI BA), ONE (Oracle + Alura) e AWS re/Start, entre outros.
+Tatiane participou de diversos cursos, bootcamps e programas de formação voltados ao desenvolvimento de software, Inteligência Artificial e computação em nuvem.
+
+Entre eles estão:
+
+- DEVstart — SENAI BA
+- Oracle Next Education (ONE) — Oracle + Alura
+- AWS re/Start
+- Google Cloud Skills Boost
+- Salvador Tech / Unifel
+- ElasNaTech
+- Descodificadas
+- Desenvolve — Grupo Boticário
 
 **Mais informações em:** `02_formacao.md`
 
 ---
 
-## Quais certificações possui?
+## Quais certificações Tatiane possui?
 
-As certificações concluídas, certificações em andamento e credenciais encontram-se documentadas em:
+As certificações concluídas, credenciais e formações certificadas estão organizadas no documento específico de certificações.
 
 **Mais informações em:** `03_certificacoes.md`
 
 ---
 
-## Quais projetos desenvolveu?
+## Quais projetos Tatiane desenvolveu?
 
-Os projetos desenvolvidos estão organizados na base de conhecimento e incluem aplicações Front-End, projetos acadêmicos e iniciativas em Inteligência Artificial.
+Os projetos desenvolvidos incluem aplicações Front-End, projetos acadêmicos, aplicações web e projetos envolvendo Inteligência Artificial.
+
+Entre os principais projetos estão:
+
+- Sowza Career Assistant
+- HR Buddy
+- Projetos da trilha DEVstart
+- Aplicações desenvolvidas durante formações técnicas
 
 **Mais informações em:** `05_projetos.md`
 
@@ -94,15 +114,28 @@ Os projetos desenvolvidos estão organizados na base de conhecimento e incluem a
 
 ## O que é o Sowza Assistant?
 
-O **Sowza Assistant** é um agente de Inteligência Artificial baseado em RAG (Retrieval-Augmented Generation), desenvolvido por Tatiane como Challenge do programa ONE AI for Tech (Oracle + Alura), com prazo de entrega em 19/08/2026. É construído com Python, FastAPI, TF-IDF/LangChain e a API da Anthropic (Claude), com deploy planejado no Render.com.
+O **Sowza Assistant** é um agente de Inteligência Artificial baseado em **RAG (Retrieval-Augmented Generation)** desenvolvido por Tatiane Souza como projeto do **Challenge ONE AI for Tech (Oracle + Alura)**.
+
+O objetivo do projeto é criar um agente capaz de responder perguntas sobre sua trajetória profissional utilizando uma base de conhecimento estruturada.
+
+Tecnologias utilizadas:
+
+- Python
+- FastAPI
+- LangChain
+- ChromaDB
+- TF-IDF
+- API da Anthropic (Claude)
+
+O deploy está planejado para ambiente em nuvem.
 
 **Mais informações em:** `05_projetos.md`
 
 ---
 
-## Onde posso visualizar o portfólio?
+## Onde visualizar o portfólio?
 
-O catálogo do portfólio profissional encontra-se em:
+O portfólio profissional reúne projetos, aplicações desenvolvidas, experiências práticas e canais profissionais.
 
 **Mais informações em:** `07_portfolio.md`
 
@@ -110,19 +143,25 @@ Os links para repositórios e aplicações são atualizados conforme novos proje
 
 ---
 
-## Como entrar em contato?
+## Como entrar em contato com Tatiane?
 
-Os principais canais profissionais encontram-se em:
+Os principais canais profissionais estão disponíveis no documento de contato.
+
+Incluem:
+
+- E-mail profissional
+- GitHub
+- LinkedIn
+- Instagram profissional
+- Portfólio
 
 **Mais informações em:** `08_contato.md`
-
-Nesse documento estão disponíveis os links para GitHub, LinkedIn, Instagram profissional, e-mail e demais canais de contato.
 
 ---
 
 ## Qual é o objetivo profissional da Tatiane?
 
-O objetivo principal é atuar como Desenvolvedora Front-End, evoluindo continuamente em Desenvolvimento Full Stack, Inteligência Artificial e Computação em Nuvem.
+O objetivo principal é atuar como **Desenvolvedora Front-End**, evoluindo continuamente seus conhecimentos em Desenvolvimento Full Stack, Inteligência Artificial, Cloud Computing e Engenharia de Software.
 
 **Mais informações em:** `09_objetivos_profissionais.md`
 
@@ -130,7 +169,7 @@ O objetivo principal é atuar como Desenvolvedora Front-End, evoluindo continuam
 
 ## Quais são os valores da SowzaTech?
 
-A atuação profissional é guiada pelos seguintes princípios:
+A atuação profissional da SowzaTech é orientada pelos seguintes princípios:
 
 - Aprendizado contínuo
 - Ética
@@ -147,9 +186,9 @@ A atuação profissional é guiada pelos seguintes princípios:
 
 ## Como a base de conhecimento está organizada?
 
-A base de conhecimento está organizada em documentos especializados, cada um responsável por um tema específico, como:
+A base de conhecimento do Sowza Career Assistant está organizada em documentos especializados, cada um responsável por um tema específico:
 
-- Sobre
+- Sobre Mim
 - Formação
 - Certificações
 - Habilidades Técnicas
@@ -162,7 +201,7 @@ A base de conhecimento está organizada em documentos especializados, cada um re
 - FAQ
 - Glossário
 
-Essa organização melhora a recuperação semântica das informações pelo Sowza Career Assistant.
+Essa organização melhora a recuperação semântica das informações pelo agente RAG.
 
 ---
 

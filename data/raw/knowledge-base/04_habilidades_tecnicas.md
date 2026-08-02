@@ -2,39 +2,46 @@
 
 ## Objetivo deste documento
 
-Este documento reúne as principais habilidades técnicas de Tatiane Souza, organizadas por categorias. As informações refletem os conhecimentos adquiridos por meio de cursos, certificações, projetos práticos e aprendizado contínuo.
+Este documento reúne as principais habilidades técnicas de Tatiane Souza, organizadas por categorias de conhecimento.
+
+As informações refletem tecnologias estudadas, utilizadas em projetos práticos, exploradas em formações profissionais e desenvolvidas por meio de aprendizado contínuo.
 
 ---
 
-## Linguagens de Programação
+# Linguagens de Programação
 
-### HTML5
+## HTML5
 
-**Competências**
+### Competências
+
 - Estruturação de páginas web
 - HTML semântico
+- Organização de documentos web
 - Formulários
-- Acessibilidade
+- Conceitos de acessibilidade
 - SEO básico
 
 ---
 
-### CSS3
+## CSS3
 
-**Competências**
+### Competências
+
 - Flexbox
 - CSS Grid
 - Responsividade
 - Media Queries
 - Animações
 - Transições
+- Organização de estilos
 
 ---
 
-### JavaScript
+## JavaScript
 
-**Competências**
-- ES6+
+### Competências
+
+- Sintaxe moderna ES6+
 - Manipulação do DOM
 - Eventos
 - Funções
@@ -43,35 +50,41 @@ Este documento reúne as principais habilidades técnicas de Tatiane Souza, orga
 - Promises
 - Fetch API
 - Módulos JavaScript
+- Consumo de APIs
 
 ---
 
-### TypeScript
+## TypeScript
 
-**Competências**
+### Competências
+
 - Tipagem estática
 - Interfaces
 - Tipos
 - Classes
-- Integração com React
+- Organização de código
+- Integração com aplicações React
 
 ---
 
-### Python
+## Python
 
-**Competências**
-- Sintaxe da linguagem
+### Competências
+
+- Fundamentos da linguagem
+- Sintaxe e estruturas básicas
 - Manipulação de arquivos
+- Automação de tarefas
 - Desenvolvimento de aplicações
-- Automação
 - Fundamentos para Inteligência Artificial
-- Desenvolvimento de APIs (FastAPI)
+- Desenvolvimento de APIs com FastAPI
 
 ---
 
-### Java
+## Java
 
-**Competências**
+### Competências
+
 - Programação Orientada a Objetos
 - Classes
 - Objetos
@@ -82,55 +95,63 @@ Este documento reúne as principais habilidades técnicas de Tatiane Souza, orga
 
 ---
 
-## Desenvolvimento Front-End
+# Desenvolvimento Front-End
 
-### React
+## React
 
-**Competências**
-- Componentes
+### Competências
+
+- Criação de componentes
 - Props
 - State
-- Hooks (useState, useEffect)
+- Hooks:
+  - useState
+  - useEffect
 - React Router
 - Consumo de APIs
 - Organização de projetos
+- Componentização de interfaces
 
 ---
 
-### Next.js
+## Next.js
 
-**Competências**
-- Estrutura de aplicações
+### Competências
+
+- Estruturação de aplicações web
 - Sistema de rotas
 - Componentização
 - Server Components
 - Client Components
 - Renderização
-- Deploy
+- Integração com APIs
+- Deploy de aplicações
 
 ---
 
-### Vite
+## Vite
 
-**Competências**
-- Inicialização de projetos
-- Ambiente de desenvolvimento
-- Build de aplicações
+### Competências
 
----
-
-### Tailwind CSS
-
-**Competências**
-- Estilização utility-first
-- Componentização visual
-- Responsividade
+- Inicialização de projetos Front-End
+- Configuração de ambiente de desenvolvimento
+- Processo de build
 
 ---
 
-## Desenvolvimento Back-End
+## Tailwind CSS
 
-### Tecnologias estudadas
+### Competências
+
+- Estilização baseada em classes utilitárias
+- Criação de interfaces responsivas
+- Padronização visual de componentes
+
+---
+
+# Desenvolvimento Back-End
+
+## Tecnologias estudadas
 
 - Node.js
 - NestJS
@@ -138,14 +159,20 @@ Este documento reúne as principais habilidades técnicas de Tatiane Souza, orga
 - Python
 - FastAPI
 - APIs REST
+
+### Competências
+
+- Criação de APIs
 - Integração entre Front-End e Back-End
-- Autenticação com JWT (autenticação baseada em papéis)
+- Estruturação de aplicações
+- Comunicação entre serviços
+- Conceitos de autenticação com JWT
 
 ---
 
-## Banco de Dados
+# Banco de Dados
 
-### Tecnologias
+## Tecnologias
 
 - PostgreSQL
 - SQLite
@@ -153,20 +180,23 @@ Este documento reúne as principais habilidades técnicas de Tatiane Souza, orga
 - Prisma ORM
 - Neon Database
 
-**Competências**
+### Competências
+
 - Modelagem de dados
 - Consultas SQL
+- Relacionamento entre tabelas
+- Persistência de informações
 - Integração com aplicações
-- Persistência de dados
 
 ---
 
-## Cloud Computing
+# Cloud Computing
 
-### Oracle Cloud Infrastructure (OCI)
+## Oracle Cloud Infrastructure (OCI)
 
-**Competências**
-- Fundamentos de Cloud Computing
+### Competências
+
+- Fundamentos de Computação em Nuvem
 - Compute
 - Storage
 - Networking
@@ -174,34 +204,39 @@ Este documento reúne as principais habilidades técnicas de Tatiane Souza, orga
 
 ---
 
-### Amazon Web Services (AWS)
+## Amazon Web Services (AWS)
 
-**Competências**
+### Competências
+
 - Fundamentos de Cloud Computing
-- Infraestrutura e serviços cloud (AWS re/Start)
+- Conceitos de infraestrutura em nuvem
+- Serviços AWS estudados no programa AWS re/Start
 
 ---
 
-### Google Cloud Platform
+## Google Cloud Platform (GCP)
 
-**Competências**
-- Cloud Skills Boost (Diamond League)
-- Google Cloud Arcade (Facilitadora 2026)
+### Competências
+
+- Google Cloud Skills Boost
+- Google Cloud Arcade
+- Diamond League
 - Laboratórios práticos
 - Google Gemini
 
 ---
 
-### Plataformas de Deploy
+## Plataformas de Deploy
 
 - Vercel
 - Render.com
+- Railway
 
 ---
 
-## Inteligência Artificial
+# Inteligência Artificial
 
-### Tecnologias e Frameworks
+## Tecnologias e Frameworks
 
 - Google Gemini
 - API Anthropic (Claude)
@@ -212,18 +247,35 @@ Este documento reúne as principais habilidades técnicas de Tatiane Souza, orga
 - RAG (Retrieval-Augmented Generation)
 - Engenharia de Prompt
 
+### Competências
+
+- Construção de agentes conversacionais
+- Recuperação aumentada por geração (RAG)
+- Integração com modelos de linguagem
+- Organização de bases de conhecimento
+- Processamento e busca de informações
+
 ---
 
-## Automação e Integração
+# Automação e Integração
 
-- n8n (automação de fluxos e agentes)
-- Integração com Telegram (Bot API)
-- Stripe Checkout (integração de pagamentos)
-- Railway (deploy e hospedagem)
+## Ferramentas
+
+- n8n
+- Telegram Bot API
+- Stripe Checkout
+- Railway
+
+### Competências
+
+- Automação de fluxos
+- Integração entre serviços
+- Construção de automações com IA
+- Integração de pagamentos
 
 ---
 
-## Ferramentas de IA para Desenvolvimento
+# Ferramentas de IA para Desenvolvimento
 
 - Claude Code
 - Cursor
@@ -232,7 +284,7 @@ Este documento reúne as principais habilidades técnicas de Tatiane Souza, orga
 
 ---
 
-## Ferramentas
+# Ferramentas de Desenvolvimento
 
 - Git
 - GitHub
@@ -245,20 +297,21 @@ Este documento reúne as principais habilidades técnicas de Tatiane Souza, orga
 
 ---
 
-## Metodologias e Boas Práticas
+# Metodologias e Boas Práticas
 
-Conhecimentos em:
+### Conhecimentos
 
-- Git Flow
 - Versionamento de código
+- Git Flow
 - Componentização
-- Desenvolvimento Responsivo
+- Desenvolvimento responsivo
 - Clean Code (fundamentos)
+- Organização de projetos
 - Boas práticas de desenvolvimento
 
 ---
 
-## Competências Profissionais
+# Competências Profissionais
 
 Além das habilidades técnicas, destacam-se:
 
@@ -272,13 +325,13 @@ Além das habilidades técnicas, destacam-se:
 
 ---
 
-## Palavras-chave
+# Palavras-chave
 
-Tatiane Souza, SowzaTech, HTML5, CSS3, JavaScript, TypeScript, Python, Java, React, Next.js, Vite, Tailwind CSS, Node.js, NestJS, FastAPI, PostgreSQL, MySQL, Prisma, Git, GitHub, Streamlit, Docker, Google Gemini, Anthropic, Claude, Cohere, LangChain, ChromaDB, TF-IDF, RAG, n8n, Telegram, Stripe, Railway, Vercel, Render, Claude Code, Cursor, Windsurf, MCP, Inteligência Artificial, Cloud Computing, Oracle Cloud, AWS, Google Cloud, Desenvolvimento Front-End, Desenvolvimento Back-End
+Tatiane Souza, SowzaTech, HTML5, CSS3, JavaScript, TypeScript, Python, Java, React, Next.js, Vite, Tailwind CSS, Node.js, NestJS, FastAPI, PostgreSQL, MySQL, SQLite, Prisma ORM, Neon Database, Git, GitHub, Streamlit, Docker, Google Gemini, Anthropic Claude, Cohere, LangChain, ChromaDB, TF-IDF, RAG, Inteligência Artificial, Agentes de IA, n8n, Telegram Bot API, Stripe Checkout, Railway, Vercel, Render, Claude Code, Cursor, Windsurf, MCP, Cloud Computing, Oracle Cloud Infrastructure, AWS, Google Cloud Platform, Desenvolvimento Front-End, Desenvolvimento Back-End
 
 ---
 
-## Referências
+# Referências
 
 Este documento complementa as informações presentes em:
 
@@ -289,7 +342,7 @@ Este documento complementa as informações presentes em:
 
 ---
 
-## Atualização
+# Atualização
 
 Este documento deve ser atualizado sempre que uma nova tecnologia, ferramenta, metodologia ou competência for aprendida ou utilizada em projetos.
 
@@ -298,4 +351,6 @@ Para cada nova habilidade registrar:
 - Nome da tecnologia ou ferramenta
 - Categoria
 - Competências desenvolvidas
-- Projetos em que foi utilizada (quando aplicável)
+- Projetos em que foi utilizada
+- Nível de conhecimento ou experiência prática
+

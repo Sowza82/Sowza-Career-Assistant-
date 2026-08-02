@@ -16,9 +16,9 @@ Atuar como **Desenvolvedora Front-End**, desenvolvendo aplicações modernas, ac
 
 ## Objetivos de Curto Prazo
 
-- Concluir o Challenge do programa ONE AI for Tech (Oracle + Alura), com entrega do projeto Sowza Assistant, até 19/08/2026.
+- Concluir o Challenge do programa ONE AI for Tech (Oracle + Alura), com a entrega do projeto Sowza Assistant, até 19/08/2026.
 - Conquistar a primeira oportunidade profissional como Desenvolvedora Front-End (CLT ou freelance).
-- Concluir o Módulo I do Técnico em Desenvolvimento de Sistemas (Escola Técnica FAT) e avançar nos módulos seguintes.
+- Concluir o Módulo I do curso Técnico em Desenvolvimento de Sistemas da Escola Técnica FAT e avançar nos módulos seguintes.
 - Fortalecer o portfólio com projetos completos, bem documentados e publicados.
 - Consolidar conhecimentos em React, Next.js, TypeScript e desenvolvimento de aplicações modernas.
 - Aprimorar conhecimentos em Git, GitHub e boas práticas de desenvolvimento.
@@ -31,7 +31,7 @@ Atuar como **Desenvolvedora Front-End**, desenvolvendo aplicações modernas, ac
 - Atuar em projetos de maior complexidade utilizando tecnologias modernas.
 - Evoluir para o desenvolvimento Full Stack.
 - Obter a certificação AWS Certified Cloud Practitioner.
-- Participar de projetos colaborativos e de código aberto (Open Source).
+- Participar de projetos colaborativos e de código aberto (open source).
 - Desenvolver soluções que integrem Inteligência Artificial ao desenvolvimento web.
 
 ---
@@ -62,7 +62,7 @@ As principais áreas de interesse profissional são:
 
 ## Áreas de Desenvolvimento
 
-Atualmente busca aprofundar conhecimentos em:
+Atualmente, busca aprofundar conhecimentos em:
 
 - Desenvolvimento de aplicações React e Next.js
 - Inteligência Artificial Generativa

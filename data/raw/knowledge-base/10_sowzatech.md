@@ -4,13 +4,13 @@
 
 Este documento apresenta a identidade da marca profissional **SowzaTech**, incluindo sua história, propósito, identidade visual, missão, visão, valores e posicionamento no mercado de tecnologia.
 
-As informações aqui registradas fazem parte da base de conhecimento do projeto **Sowza Career Assistant** e representam a identidade profissional construída por Tatiane Souza.
+As informações aqui registradas fazem parte da base de conhecimento do projeto **Sowza Career Assistant** e representam a identidade profissional construída por **Tatiane Souza**.
 
 ---
 
 ## O que é a SowzaTech?
 
-**SowzaTech** é a marca profissional criada por **Tatiane Souza** para representar sua atuação na área de tecnologia. A marca opera sob a entidade Sowzatech.
+**SowzaTech** é a marca profissional criada por **Tatiane Souza** para representar sua atuação na área de tecnologia.
 
 A marca nasceu durante sua transição de carreira para o desenvolvimento de software e tem como propósito reunir projetos, estudos, certificações e iniciativas que demonstram sua evolução profissional.
 
@@ -20,7 +20,7 @@ Mais do que um nome, a SowzaTech representa o compromisso com o aprendizado cont
 
 ## História
 
-Após anos de experiência em outras áreas profissionais, Tatiane Souza iniciou sua transição para a tecnologia em 2023.
+Após anos de experiência em diferentes áreas profissionais, Tatiane Souza iniciou sua transição para a tecnologia em 2023.
 
 Desde então, vem construindo uma trajetória baseada em estudo constante, participação em programas de formação, desenvolvimento de projetos práticos e busca por aperfeiçoamento técnico.
 
@@ -32,7 +32,7 @@ A criação da **SowzaTech** simboliza essa nova fase profissional, consolidando
 
 ### Tagline
 
-*"código com alma. design que move."*
+_"código com alma. design que move."_
 
 ### Paleta de Cores
 
@@ -83,7 +83,7 @@ A SowzaTech concentra seus estudos, projetos e soluções nas seguintes áreas:
 - Inteligência Artificial
 - Computação em Nuvem
 - Engenharia de Software
-- UX/UI
+- UX/UI Design
 
 ---
 
@@ -96,7 +96,7 @@ A SowzaTech desenvolve soluções e compartilha conhecimento para:
 - Comunidade de tecnologia
 - Desenvolvedores
 - Estudantes de tecnologia
-- Clientes que buscam soluções digitais
+- Clientes interessados em soluções digitais
 
 ---
 
@@ -123,7 +123,7 @@ Seu posicionamento é baseado na combinação entre aprendizado contínuo, aplic
 
 ## Palavras-chave
 
-Tatiane Souza, SowzaTech, Sowzatech, Marca Pessoal, Personal Branding, código com alma design que move, Ember Orange, Dark Purple, Bebas Neue, DM Sans, Identidade Visual, Desenvolvimento Web, Front-End, Full Stack, Inteligência Artificial, Cloud Computing, Engenharia de Software, Tecnologia, Inovação
+Tatiane Souza, SowzaTech, Marca Pessoal, Personal Branding, código com alma design que move, Ember Orange, Dark Purple, Bebas Neue, DM Sans, Identidade Visual, Desenvolvimento Web, Front-End, Full Stack, Inteligência Artificial, Cloud Computing, Engenharia de Software, Tecnologia, Inovação
 
 ---
 
@@ -142,3 +142,4 @@ Este documento complementa as informações presentes em:
 ## Atualização
 
 Este documento deve ser revisado sempre que houver mudanças na identidade da marca, no posicionamento profissional, nos objetivos estratégicos ou nas áreas de atuação da SowzaTech.
+
