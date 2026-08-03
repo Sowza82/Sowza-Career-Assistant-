@@ -10,6 +10,16 @@ Versão: 2.0
 """
 
 from pathlib import Path
+import os
+from dotenv import load_dotenv
+
+# ============================================================
+# VARIÁVEIS DE AMBIENTE
+# ============================================================
+
+load_dotenv()
+
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 
 # ============================================================
 # DIRETÓRIOS
