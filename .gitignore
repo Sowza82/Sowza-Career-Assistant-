@@ -55,3 +55,6 @@ data/processed/
 # ==========================================================
 Thumbs.db
 desktop.ini
+
+# Banco vetorial
+chroma_db/
