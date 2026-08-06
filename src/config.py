@@ -63,6 +63,11 @@ SEARCH_TYPE = "similarity"
 # GERAÇÃO
 # ============================================================
 
+# Alguns modelos Gemini (como gemini-3.6-flash)
+# utilizam parâmetros fixos e ignoram temperature.
+# A configuração permanece para compatibilidade com
+# outros modelos.
+
 TEMPERATURE = 0.2
 
 MAX_OUTPUT_TOKENS = 1024
