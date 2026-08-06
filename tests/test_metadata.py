@@ -2,44 +2,37 @@ from src.loader import load_documents
 from src.splitter import split_documents
 
 
-print("=" * 60)
-print("TESTE METADADOS DOS CHUNKS")
-print("=" * 60)
+def test_chunks_have_metadata():
+    """Verifica se todos os chunks possuem metadados."""
+
+    documents = load_documents()
+    chunks = split_documents(documents)
+
+    assert len(chunks) > 0, "Nenhum chunk foi gerado."
+
+    for chunk in chunks:
+        assert hasattr(chunk, "metadata")
+        assert isinstance(chunk.metadata, dict)
 
 
-documents = load_documents()
+def test_chunks_have_content():
+    """Verifica se todos os chunks possuem conteúdo."""
 
-print()
-print(f"Documentos carregados: {len(documents)}")
+    documents = load_documents()
+    chunks = split_documents(documents)
 
-
-chunks = split_documents(documents)
-
-print(f"Chunks gerados: {len(chunks)}")
-
-
-print()
-print("Primeiros 5 chunks")
-print("=" * 60)
+    for chunk in chunks:
+        assert chunk.page_content.strip() != ""
+        assert len(chunk.page_content) > 0
 
 
-for i, chunk in enumerate(chunks[:5], start=1):
+def test_chunks_have_source_metadata():
+    """Verifica se os chunks possuem o metadado 'source'."""
 
-    print()
-    print(f"CHUNK {i}")
-    print("-" * 60)
+    documents = load_documents()
+    chunks = split_documents(documents)
 
-    print("Metadados:")
-    print(chunk.metadata)
-
-    print()
-
-    print("Tamanho:")
-    print(f"{len(chunk.page_content)} caracteres")
-
-    print()
-
-    print("Conteúdo inicial:")
-    print(chunk.page_content[:300])
-
-    print()
+    for chunk in chunks:
+        assert "source" in chunk.metadata, (
+            "Chunk sem metadado 'source'."
+        )

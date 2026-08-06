@@ -2,116 +2,74 @@ from src.loader import load_documents
 from src.splitter import split_documents
 
 
-print("=" * 60)
-print("TESTE DE QUALIDADE DA BASE")
-print("=" * 60)
+def test_no_empty_documents():
+    """Verifica se existem documentos sem conteúdo."""
+
+    documents = load_documents()
+
+    empty_docs = [
+        doc for doc in documents
+        if not doc.page_content.strip()
+    ]
+
+    assert len(empty_docs) == 0, (
+        f"Encontrados {len(empty_docs)} documentos vazios."
+    )
 
 
-# Carregar documentos
-documents = load_documents()
+def test_no_small_chunks():
+    """Verifica se existem chunks menores que o limite definido."""
 
-print(f"\nDocumentos analisados: {len(documents)}")
+    documents = load_documents()
+    chunks = split_documents(documents)
 
+    small_chunks = [
+        chunk for chunk in chunks
+        if len(chunk.page_content) < 100
+    ]
 
-# Verificar documentos vazios
-print("\n1. DOCUMENTOS VAZIOS")
-print("-" * 60)
-
-empty_docs = []
-
-for doc in documents:
-    if not doc.page_content.strip():
-        empty_docs.append(doc.metadata)
-
-if empty_docs:
-    print("Documentos vazios encontrados:")
-    for item in empty_docs:
-        print(item)
-else:
-    print("Nenhum documento vazio encontrado.")
+    assert len(small_chunks) == 0, (
+        f"Encontrados {len(small_chunks)} chunks muito pequenos."
+    )
 
 
-# Criar chunks
-chunks = split_documents(documents)
+def test_no_spacing_problems():
+    """Verifica possíveis problemas de espaçamento no texto."""
 
-print("\nChunks analisados:", len(chunks))
+    documents = load_documents()
+    chunks = split_documents(documents)
 
+    padroes_problematicos = [
+        "soluçõesdigitais",
+        "nodesenvolvimento",
+        "comfoco",
+        "tecnologia.A",
+        "profissionalpor",
+    ]
 
-# Verificar chunks pequenos
-print("\n2. CHUNKS MUITO PEQUENOS")
-print("-" * 60)
+    problemas = []
 
-small_chunks = []
+    for chunk in chunks:
+        for padrao in padroes_problematicos:
+            if padrao in chunk.page_content:
+                problemas.append(padrao)
 
-for index, chunk in enumerate(chunks, start=1):
-    tamanho = len(chunk.page_content)
-
-    if tamanho < 100:
-        small_chunks.append(
-            {
-                "chunk": index,
-                "tamanho": tamanho,
-                "source": chunk.metadata.get("source")
-            }
-        )
-
-if small_chunks:
-    print("Chunks pequenos encontrados:")
-    for item in small_chunks:
-        print(item)
-else:
-    print("Nenhum chunk pequeno encontrado.")
+    assert len(problemas) == 0, (
+        f"Encontrados padrões problemáticos: {problemas}"
+    )
 
 
-# Procurar possíveis palavras grudadas
-print("\n3. POSSÍVEIS ERROS DE ESPAÇAMENTO")
-print("-" * 60)
+def test_chunks_statistics():
+    """Verifica se os chunks possuem tamanho válido."""
 
-problemas = []
+    documents = load_documents()
+    chunks = split_documents(documents)
 
-padroes = [
-    "soluçõesdigitais",
-    "nodesenvolvimento",
-    "comfoco",
-    "tecnologia.A",
-    "profissionalpor"
-]
+    tamanhos = [
+        len(chunk.page_content)
+        for chunk in chunks
+    ]
 
-
-for index, chunk in enumerate(chunks, start=1):
-
-    texto = chunk.page_content
-
-    for padrao in padroes:
-        if padrao in texto:
-            problemas.append(
-                {
-                    "chunk": index,
-                    "problema": padrao,
-                    "source": chunk.metadata.get("source")
-                }
-            )
-
-
-if problemas:
-    print("Possíveis problemas encontrados:")
-    for item in problemas:
-        print(item)
-else:
-    print("Nenhum padrão problemático encontrado.")
-
-
-# Estatísticas
-print("\n4. ESTATÍSTICAS")
-print("-" * 60)
-
-tamanhos = [len(chunk.page_content) for chunk in chunks]
-
-print("Menor chunk:", min(tamanhos), "caracteres")
-print("Maior chunk:", max(tamanhos), "caracteres")
-print("Média:", round(sum(tamanhos) / len(tamanhos), 2), "caracteres")
-
-
-print("\n" + "=" * 60)
-print("TESTE FINALIZADO")
-print("=" * 60)
+    assert len(tamanhos) > 0
+    assert min(tamanhos) > 0
+    assert max(tamanhos) >= min(tamanhos)

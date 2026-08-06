@@ -13,35 +13,42 @@ Versão: 2.0
 
 from src.retriever import create_retriever
 
-print("=" * 60)
-print("TESTE DO RETRIEVER")
-print("=" * 60)
 
-retriever = create_retriever()
+def test_create_retriever():
+    """Verifica se o retriever é criado corretamente."""
 
-consulta = "Quem é Tatiane Souza?"
+    retriever = create_retriever()
 
-print(f"\nConsulta: {consulta}")
+    assert retriever is not None, "Falha ao criar o retriever."
 
-resultados = retriever.invoke(consulta)
 
-print(f"\nQuantidade de resultados: {len(resultados)}")
+def test_retriever_query():
+    """Verifica se o retriever retorna documentos para uma consulta."""
 
-print("\n" + "=" * 60)
-print("DOCUMENTOS RECUPERADOS")
-print("=" * 60)
+    retriever = create_retriever()
 
-for i, doc in enumerate(resultados, start=1):
-    print(f"\nResultado {i}")
-    print("-" * 60)
+    consulta = "Quem é Tatiane Souza?"
+    resultados = retriever.invoke(consulta)
 
-    arquivo = doc.metadata.get("source", "Desconhecido")
-    print(f"Arquivo: {arquivo}")
+    assert len(resultados) > 0, "Nenhum documento foi recuperado."
 
-    print("\nConteúdo:")
-    print(doc.page_content[:500])
-    print("...")
+    primeiro = resultados[0]
 
-print("\n" + "=" * 60)
-print("TESTE FINALIZADO COM SUCESSO")
-print("=" * 60)
+    assert hasattr(primeiro, "page_content")
+    assert primeiro.page_content.strip() != ""
+
+    assert hasattr(primeiro, "metadata")
+    assert isinstance(primeiro.metadata, dict)
+
+
+def test_retriever_metadata():
+    """Verifica se os documentos recuperados possuem a origem."""
+
+    retriever = create_retriever()
+
+    resultados = retriever.invoke("Quem é Tatiane Souza?")
+
+    for doc in resultados:
+        assert "source" in doc.metadata, (
+            "Documento recuperado sem metadado 'source'."
+        )

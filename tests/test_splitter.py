@@ -2,20 +2,35 @@ from src.loader import load_documents
 from src.splitter import split_documents
 
 
-documents = load_documents()
+def test_split_documents():
+    """Verifica se o splitter gera chunks a partir dos documentos."""
 
-chunks = split_documents(documents)
+    documents = load_documents()
+    chunks = split_documents(documents)
+
+    assert len(documents) > 0, "Nenhum documento foi carregado."
+    assert len(chunks) > 0, "Nenhum chunk foi gerado."
+
+    # O splitter deve gerar pelo menos a mesma quantidade de chunks
+    # que documentos (normalmente gera bem mais).
+    assert len(chunks) >= len(documents)
 
 
-print("=" * 60)
-print("TESTE SPLITTER")
-print("=" * 60)
+def test_chunk_content():
+    """Verifica se o primeiro chunk possui conteúdo."""
 
-print(f"Documentos originais: {len(documents)}")
-print(f"Chunks gerados: {len(chunks)}")
+    documents = load_documents()
+    chunks = split_documents(documents)
+
+    assert hasattr(chunks[0], "page_content")
+    assert chunks[0].page_content.strip() != ""
 
 
-print("\nPrimeiro chunk:")
-print("-" * 60)
+def test_chunk_metadata():
+    """Verifica se os chunks possuem metadados."""
 
-print(chunks[0].page_content)
+    documents = load_documents()
+    chunks = split_documents(documents)
+
+    assert hasattr(chunks[0], "metadata")
+    assert isinstance(chunks[0].metadata, dict)
