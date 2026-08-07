@@ -1,45 +1,42 @@
 """
-============================================================
-TESTE DO RAG PIPELINE
-Sowza Career Assistant
-============================================================
-
 Testes do pipeline principal do sistema RAG.
 
 Versão: 2.0
 """
 
+import pytest
+
 from src.rag_pipeline import ask
 
 
-def test_pipeline_returns_string():
+@pytest.fixture(scope="module")
+def rag_response():
+    """
+    Executa o pipeline uma vez e reutiliza a resposta nos testes.
+    """
+    return ask("Quem é Tatiane Souza?")
+
+
+def test_pipeline_returns_string(rag_response):
     """Verifica se o pipeline retorna uma string."""
 
-    response = ask("Quem é Tatiane Souza?")
-
-    assert isinstance(response, str)
+    assert isinstance(rag_response, str)
 
 
-def test_pipeline_not_empty():
+def test_pipeline_not_empty(rag_response):
     """Verifica se a resposta não está vazia."""
 
-    response = ask("Quem é Tatiane Souza?")
-
-    assert len(response.strip()) > 0
+    assert len(rag_response.strip()) > 0
 
 
-def test_pipeline_contains_name():
+def test_pipeline_contains_name(rag_response):
     """Verifica se a resposta contém o nome Tatiane Souza."""
 
-    response = ask("Quem é Tatiane Souza?")
-
-    assert "Tatiane Souza" in response
+    assert "Tatiane Souza" in rag_response
 
 
-def test_pipeline_professional_context():
+def test_pipeline_professional_context(rag_response):
     """Verifica se a resposta está relacionada ao contexto profissional."""
-
-    response = ask("Quem é Tatiane Souza?")
 
     keywords = [
         "SowzaTech",
@@ -49,4 +46,4 @@ def test_pipeline_professional_context():
         "projetos",
     ]
 
-    assert any(keyword in response for keyword in keywords)
+    assert any(keyword in rag_response for keyword in keywords)
